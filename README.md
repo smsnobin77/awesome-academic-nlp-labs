@@ -6,6 +6,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 |--------|--------|-------------|
 | | **— North America —** |  |
 | Berkeley NLP | https://nlp.cs.berkeley.edu/ | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
+| Brown NLP | https://lunar.cs.brown.edu/ | |
 | Cornell NLP | https://nlp.cornell.edu/ | |
 | MIT NLP | https://www.csail.mit.edu/research/natural-language-processing-group | | 
 | Penn NLP | https://nlp.cis.upenn.edu/ | [CLunch](https://nlp.cis.upenn.edu/clunch.html) |
