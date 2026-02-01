@@ -5,8 +5,10 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | Lab Name | Webpage | Other Links |
 |--------|--------|-------------|
 | | **— USA —** |  |
+| ASU NLP | https://nlp.asu.edu/ | |
 | Berkeley NLP | https://nlp.cs.berkeley.edu/ | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
 | Brown NLP | https://lunar.cs.brown.edu/ | |
+| Boulder NLP | https://www.colorado.edu/research/bouldernlp/ | |
 | Cornell NLP | https://nlp.cornell.edu/ | |
 | Columbia NLP | https://www.cs.columbia.edu/nlp/ |  |
 | DukeNLP | https://nlplab.cs.duke.edu/ |  |
@@ -14,9 +16,13 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | Harvard NLP | https://nlp.seas.harvard.edu/ | |
 | IU NLP Lab | https://nlp-lab.org/ | | 
 | MIT NLP | https://www.csail.mit.edu/research/natural-language-processing-group | | 
+| Minnesota NLP | https://minnesotanlp.github.io/ | | 
+| OSU NLP | https://x.com/osunlp | |
 | Penn NLP | https://nlp.cis.upenn.edu/ | [CLunch](https://nlp.cis.upenn.edu/clunch.html) |
 | Princeton NLP | https://princeton-nlp.github.io/ | |
 | Stanford NLP Group | https://nlp.stanford.edu/ | |
+| Stony Brook NLP | https://nlp.cs.stonybrook.edu/ | |
+| Texas A&M NLP | https://nlp.cs.tamu.edu/ | |
 | UIUC NLP | https://nlp.cs.illinois.edu/ | |
 | UCLA NLP | https://nlp.ucla.edu/ | https://uclanlp.github.io/nlp-seminar/ |
 | UMass NLP | https://nlp.cs.umass.edu/ |  |
@@ -29,6 +35,8 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | UIC NLP Lab | https://nlp.lab.uic.edu/ | |
 | USC NLP | https://nlp.usc.edu/ |  |
 | UCSD NLP | https://ucsd-nlp.github.io/ | |
+| UF NLP | https://nlp.cise.ufl.edu/ | |
+| Utah NLP | https://nlp.cs.utah.edu/ | |
 | Yale NLP | https://nlp.cs.yale.edu/ | | 
 | | **— Rest of the World —** | |
 | Cardiff NLP | https://cardiffnlp.github.io/ | https://github.com/cardiffnlp |
