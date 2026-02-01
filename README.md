@@ -29,10 +29,12 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | CS-NLP Group, Utrecht University | https://github.com/cs-nlp-uu | |
 | Edinburgh NLP | https://edinburghnlp.inf.ed.ac.uk/ | https://github.com/EdinburghNLP |
 | Imperial NLP | https://nlp.doc.ic.ac.uk/ | |
+| McGill NLP | https://mcgill-nlp.github.io/ | |
 | MilaNLP | https://milanlproc.github.io/ | 
 | Munich AI & NLP Research Lab | https://mainlp.github.io/ | |
 | Milan NLP Group | https://milanlproc.github.io/ | |
 | UofT NLP | https://www.cs.toronto.edu/compling/ | |
+| UBC NLP | https://nlp.cs.ubc.ca/ | |
 
 
 
