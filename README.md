@@ -10,7 +10,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | UCLA NLP | https://nlp.ucla.edu/ | https://uclanlp.github.io/nlp-seminar/ |
 | UCI NLP | https://ucinlp.github.io/ | |
 | UNC NLP | https://nlp.cs.unc.edu/ | |
-| UMich LIT | https://lit.eecs.umich.edu/index.html | |
+| UMich LIT | https://lit.eecs.umich.edu/index.html | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
 | Munich AI & NLP Research Lab | https://mainlp.github.io/ | |
 | Edinburgh NLP | https://edinburghnlp.inf.ed.ac.uk/ | https://github.com/EdinburghNLP |
 | Imperial NLP | https://nlp.doc.ic.ac.uk/ | |
