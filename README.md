@@ -4,7 +4,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 
 | Lab Name | Webpage | Other Links |
 |--------|--------|-------------|
-| **— North America —** |  |  |
+| | **— North America —** |  |
 | Berkeley NLP | https://nlp.cs.berkeley.edu/ | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
 | Cornell NLP | https://nlp.cornell.edu/ | |
 | MIT NLP | https://www.csail.mit.edu/research/natural-language-processing-group | | 
@@ -15,7 +15,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | UCI NLP | https://ucinlp.github.io/ | |
 | UNC NLP | https://nlp.cs.unc.edu/ | |
 | UMich LIT | https://lit.eecs.umich.edu/index.html | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
-| **— Rest of the World —** | | |
+| | **— Rest of the World —** | |
 | Munich AI & NLP Research Lab | https://mainlp.github.io/ | |
 | Edinburgh NLP | https://edinburghnlp.inf.ed.ac.uk/ | https://github.com/EdinburghNLP |
 | Imperial NLP | https://nlp.doc.ic.ac.uk/ | |
