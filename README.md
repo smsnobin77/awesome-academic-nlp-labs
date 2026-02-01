@@ -4,9 +4,9 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 
 | Lab Name | Webpage | Other Links |
 |--------|--------|-------------|
-| Stanford NLP Group | nlp.stanford.edu/ | |
-| Cornell NLP | nlp.cornell.edu/ | |
-| UIUC NLP | nlp.cs.illinois.edu/ | |
+| Stanford NLP Group | https://nlp.stanford.edu/ | |
+| Cornell NLP | https://nlp.cornell.edu/ | |
+| UIUC NLP | https://nlp.cs.illinois.edu/ | |
 | UCLA NLP | https://nlp.ucla.edu/ | https://uclanlp.github.io/nlp-seminar/ |
 | UCI NLP | https://ucinlp.github.io/ | |
 | UNC NLP | https://nlp.cs.unc.edu/ | |
