@@ -1,3 +1,17 @@
 # Awesome Academic NLP Research Labs Worldwide
 
 A curated directory of academic Natural Language Processing (NLP) research labs worldwide. Each entry links to the official lab webpage. Contributions are welcome.
+
+| Lab Name | Webpage | Other Links |
+|--------|--------|-------------|
+| Stanford NLP Group | https://nlp.stanford.edu/ | |
+| Cornell NLP | https://nlp.cornell.edu/ | |
+| UIUC NLP | https://nlp.cs.illinois.edu/ | |
+| UCLA NLP | https://web.cs.ucla.edu/~kwchang/members/ | https://uclanlp.github.io/nlp-seminar/ |
+| UCI NLP | https://ucinlp.github.io/ | |
+| Munich AI & NLP Research Lab | https://mainlp.github.io/ | |
+| Edinburgh NLP | https://edinburghnlp.inf.ed.ac.uk/ | https://github.com/EdinburghNLP |
+| Imperial NLP | https://nlp.doc.ic.ac.uk/ | |
+| Milan NLP Group | https://milanlproc.github.io/ | |
+| Cardiff NLP | https://cardiffnlp.github.io/ | https://github.com/cardiffnlp |
+| CS-NLP Group, Utrecht University | https://github.com/cs-nlp-uu | |
