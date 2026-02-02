@@ -61,9 +61,12 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | Cambridge LTL | https://ltl.mmll.cam.ac.uk/ | |
 | Cardiff NLP | https://cardiffnlp.github.io/ | https://github.com/cardiffnlp |
 | CS-NLP Group, Utrecht University | https://github.com/cs-nlp-uu | |
+| Cope NLU | https://www.copenlu.com/ | |
 | Edinburgh NLP | https://edinburghnlp.inf.ed.ac.uk/ | https://github.com/EdinburghNLP |
 | EPFL NLP | https://nlp.epfl.ch/ | |
+| HKUST NLP | https://hltchkust.github.io/ | |
 | Imperial NLP | https://nlp.doc.ic.ac.uk/ | |
+| KAIST NLP*CL | https://nlpcl.kaist.ac.kr/home/ | |
 | McGill NLP | https://mcgill-nlp.github.io/ | |
 | MilaNLP | https://milanlproc.github.io/ | 
 | Munich AI & NLP Research Lab | https://mainlp.github.io/ | |
@@ -71,6 +74,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | NUS NLP | https://www.comp.nus.edu.sg/~nlp/ | |
 | OxNLP | https://eng.ox.ac.uk/oxnlp | | 
 | SFU NLP | https://www.sfu.ca/fas/computing/research/labs/nat-lang.html | |
+| Sapienza NLP | https://nlp.uniroma1.it/ | |
 | Tsinghua NLP | https://github.com/thunlp | |
 | UCL NLP | https://nlp.cs.ucl.ac.uk/ | |
 | UofT NLP | https://www.cs.toronto.edu/compling/ | |
