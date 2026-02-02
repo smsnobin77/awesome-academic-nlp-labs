@@ -55,6 +55,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UCSD NLP | https://ucsd-nlp.github.io/ | |
 | UF NLP | https://nlp.cise.ufl.edu/ | |
 | Utah NLP | https://nlp.cs.utah.edu/ | |
+| UMBC NLP | https://huggingface.co/umbc-nlp | |
 | USF NLP | https://nlp-grp.github.io/ | | 
 | WashU NLP | https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html | | 
 | Yale NLP | https://nlp.cs.yale.edu/ | | 
