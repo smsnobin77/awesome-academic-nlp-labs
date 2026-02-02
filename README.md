@@ -30,7 +30,6 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Notre Dame NLP | https://nlp.nd.edu/ | |
 | NYU ML<sup>2</sup> | https://wp.nyu.edu/ml2/ | |
 | OSU NLP | https://x.com/osunlp | |
-| Penn NLP | https://nlp.cis.upenn.edu/ | |
 | Princeton NLP | https://princeton-nlp.github.io/ | |
 | Penn State NLP | https://nlp.psu.edu/ | |
 | Purdue NLP | https://purduenlp.github.io/ | |
@@ -48,6 +47,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UMich LIT | https://lit.eecs.umich.edu/index.html | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
 | UW NLP | https://nlp.washington.edu/ | |
 | UT Austin NLP | https://www.nlp.utexas.edu/ | | 
+| UPenn NLP | https://nlp.cis.upenn.edu/ | https://x.com/upennnlp |
 | UCSB NLP | http://nlp.cs.ucsb.edu/ | |
 | UArizona CLU | https://clulab.org/ | |
 | UIC NLP Lab | https://nlp.lab.uic.edu/ | |
@@ -58,14 +58,15 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UMBC NLP | https://huggingface.co/umbc-nlp | |
 | USF NLP | https://nlp-grp.github.io/ | | 
 | WashU NLP | https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html | | 
-| Yale NLP | https://nlp.cs.yale.edu/ | | 
+| Yale NLP | https://nlp.cs.yale.edu/ | https://x.com/yalenlp | 
 
 ## Rest of the World
 
 | Lab Name | Webpage | Other Links |
 |--------|--------|-------------|
 | Amsterdam NLPxDH | https://projects.illc.uva.nl/NLP-DH/ | | 
-| BIU NLP | https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/ | | 
+| AUEB NLP | https://nlp.cs.aueb.gr/ | https://x.com/AUEBNLPGroup |
+| BIU NLP | https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/ | https://x.com/biunlp | 
 | Cambridge NLP | https://www.cst.cam.ac.uk/research/themes/natural-language-processing | |
 | Cambridge LTL | https://ltl.mmll.cam.ac.uk/ | |
 | Cardiff NLP | https://cardiffnlp.github.io/ | https://github.com/cardiffnlp |
@@ -74,7 +75,10 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Edinburgh NLP | https://edinburghnlp.inf.ed.ac.uk/ | https://github.com/EdinburghNLP |
 | EPFL NLP | https://nlp.epfl.ch/ | |
 | HKUST NLP | https://hltchkust.github.io/ | |
+| Helsinki NLP | https://blogs.helsinki.fi/language-technology/ | https://x.com/HelsinkiNLP |
 | Imperial NLP | https://nlp.doc.ic.ac.uk/ | |
+| ITU Copenhagen NLP | https://nlpnorth.github.io/ | https://x.com/NLPatITU | 
+| Heidelberg NLP | https://www.cl.uni-heidelberg.de/nlpgroup/ | https://x.com/HD_NLP |
 | KAIST NLP*CL | https://nlpcl.kaist.ac.kr/home/ | |
 | McGill NLP | https://mcgill-nlp.github.io/ | |
 | MilaNLP | https://milanlproc.github.io/ | 
@@ -82,6 +86,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Milan NLP Group | https://milanlproc.github.io/ | |
 | NUS NLP | https://www.comp.nus.edu.sg/~nlp/ | |
 | OxNLP | https://eng.ox.ac.uk/oxnlp | | 
+| Sheffield NLP | https://sheffield.ac.uk/cs/research/groups/natural-language-processing | https://x.com/SheffieldNLP | 
 | SFU NLP | https://www.sfu.ca/fas/computing/research/labs/nat-lang.html | |
 | Sapienza NLP | https://nlp.uniroma1.it/ | |
 | Tsinghua NLP | https://github.com/thunlp | |
@@ -90,6 +95,8 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UBC NLP | https://nlp.cs.ubc.ca/ | |
 | UKP Lab (TU Darmstadt) | https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp | |
 | UniMelb NLP | https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing | |
+| UniOr NLP | https://sites.google.com/view/unior-nlp-research-group | https://x.com/NlpUnior | 
+| UGent NLP | https://ugentt2k.github.io/ | https://x.com/ugentnlp |
 | Waterloo NLP | https://ov-research.uwaterloo.ca/NLP_lab.html | | 
 
 
