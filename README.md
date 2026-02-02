@@ -31,6 +31,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | Penn State NLP | https://nlp.psu.edu/ | |
 | Purdue NLP | https://purduenlp.github.io/ | |
 | Port NLP | https://nlp.cs.pdx.edu/ | |
+| Rutgers Comp Ling Lab | https://rucll.github.io/index.html | |
 | Stanford NLP Group | https://nlp.stanford.edu/ | |
 | Stony Brook NLP | https://nlp.cs.stonybrook.edu/ | |
 | Texas A&M NLP | https://nlp.cs.tamu.edu/ | |
@@ -54,16 +55,27 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | WashU NLP | https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html | | 
 | Yale NLP | https://nlp.cs.yale.edu/ | | 
 | | **— Rest of the World —** | |
+| Amsterdam NLPxDH | https://projects.illc.uva.nl/NLP-DH/ | | 
+| Cambridge NLP | https://www.cst.cam.ac.uk/research/themes/natural-language-processing | |
+| Cambridge LTL | https://ltl.mmll.cam.ac.uk/ | |
 | Cardiff NLP | https://cardiffnlp.github.io/ | https://github.com/cardiffnlp |
 | CS-NLP Group, Utrecht University | https://github.com/cs-nlp-uu | |
 | Edinburgh NLP | https://edinburghnlp.inf.ed.ac.uk/ | https://github.com/EdinburghNLP |
+| EPFL NLP | https://nlp.epfl.ch/ | |
 | Imperial NLP | https://nlp.doc.ic.ac.uk/ | |
 | McGill NLP | https://mcgill-nlp.github.io/ | |
 | MilaNLP | https://milanlproc.github.io/ | 
 | Munich AI & NLP Research Lab | https://mainlp.github.io/ | |
 | Milan NLP Group | https://milanlproc.github.io/ | |
+| NUS NLP | https://www.comp.nus.edu.sg/~nlp/ | |
+| OxNLP | https://eng.ox.ac.uk/oxnlp | | 
+| SFU NLP | https://www.sfu.ca/fas/computing/research/labs/nat-lang.html | |
+| Tsinghua NLP | https://github.com/thunlp | |
+| UCL NLP | https://nlp.cs.ucl.ac.uk/ | |
 | UofT NLP | https://www.cs.toronto.edu/compling/ | |
 | UBC NLP | https://nlp.cs.ubc.ca/ | |
+| UKP Lab (TU Darmstadt) | https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp | |
+| Waterloo NLP | https://ov-research.uwaterloo.ca/NLP_lab.html | | 
 
 
 
