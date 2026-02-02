@@ -1,8 +1,8 @@
 # Awesome Academic NLP Research Labs Worldwide
 
-A curated directory of academic NLP research labs worldwide. Entries link to official lab webpages and are listed alphabetically, without any implied ranking. Contributions are welcome.
+A curated directory of academic NLP research labs worldwide. Entries link to official lab webpages and are listed alphabetically, without any implied ranking. Labs are organized into United States–based and Rest of the World sections (e.g., Canada, the UK, Europe, Australia, China, Singapore). Contributions are welcome.
 
-## Table of Contents
+## Regional Coverage
 - [United States–Based Labs](#united-states-based-labs)
 - [Rest of the World](#rest-of-the-world)
 
