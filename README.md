@@ -2,9 +2,13 @@
 
 A curated directory of academic NLP research labs worldwide. Entries link to official lab webpages and are listed alphabetically, without any implied ranking. Contributions are welcome.
 
+## Table of Contents
+- [United States–Based Labs](#united-states-based-labs)
+- [Rest of the World](#rest-of-the-world)
+
+## United States–Based Labs
 | Lab Name | Webpage | Other Links |
 |--------|--------|-------------|
-| | **— USA —** |  |
 | ASU NLP | https://nlp.asu.edu/ | |
 | Berkeley NLP | https://nlp.cs.berkeley.edu/ | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
 | Brown NLP | https://lunar.cs.brown.edu/ | |
@@ -54,7 +58,11 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | USF NLP | https://nlp-grp.github.io/ | | 
 | WashU NLP | https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html | | 
 | Yale NLP | https://nlp.cs.yale.edu/ | | 
-| | **— Rest of the World —** | |
+
+## Rest of the World
+
+| Lab Name | Webpage | Other Links |
+|--------|--------|-------------|
 | Amsterdam NLPxDH | https://projects.illc.uva.nl/NLP-DH/ | | 
 | BIU NLP | https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/ | | 
 | Cambridge NLP | https://www.cst.cam.ac.uk/research/themes/natural-language-processing | |
