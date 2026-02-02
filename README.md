@@ -14,16 +14,18 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | CincyNLP Lab | https://jiangtianyu.com/lab/ | |
 | DukeNLP | https://nlplab.cs.duke.edu/ |  |
 | Emory NLP | https://www.emorynlp.org/ | |
-| George Mason NLP | https://nlp.cs.gmu.edu/ |  |
+| George Mason NLP | https://nlp.cs.gmu.edu/ | |
 | Harvard NLP | https://nlp.seas.harvard.edu/ | |
 | Howard NLP | https://nlp.howard.edu/ | |
 | IU NLP Lab | https://nlp-lab.org/ | | 
+| JHU CLSP | https://www.clsp.jhu.edu/ | |
 | MIT NLP | https://www.csail.mit.edu/research/natural-language-processing-group | | 
 | Minnesota NLP | https://minnesotanlp.github.io/ | | 
 | Montclair NLP Lab | https://sites.google.com/view/montclairnlplab/ | |
 | Notre Dame NLP | https://nlp.nd.edu/ | |
+| NYU ML<sup>2</sup> | https://wp.nyu.edu/ml2/ | |
 | OSU NLP | https://x.com/osunlp | |
-| Penn NLP | https://nlp.cis.upenn.edu/ | [CLunch](https://nlp.cis.upenn.edu/clunch.html) |
+| Penn NLP | https://nlp.cis.upenn.edu/ | |
 | Princeton NLP | https://princeton-nlp.github.io/ | |
 | Penn State NLP | https://nlp.psu.edu/ | |
 | Purdue NLP | https://purduenlp.github.io/ | |
