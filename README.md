@@ -1,6 +1,6 @@
 # Awesome Academic NLP Research Labs Worldwide
 
-A curated directory of academic Natural Language Processing (NLP) research labs worldwide. Entries link to official lab webpages and are listed without any implied ranking. Contributions are welcome.
+A curated directory of academic NLP research labs worldwide. Entries link to official lab webpages and are listed alphabetically, without any implied ranking. Contributions are welcome.
 
 | Lab Name | Webpage | Other Links |
 |--------|--------|-------------|
