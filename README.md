@@ -56,6 +56,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | Yale NLP | https://nlp.cs.yale.edu/ | | 
 | | **— Rest of the World —** | |
 | Amsterdam NLPxDH | https://projects.illc.uva.nl/NLP-DH/ | | 
+| BIU NLP | https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/ | | 
 | Cambridge NLP | https://www.cst.cam.ac.uk/research/themes/natural-language-processing | |
 | Cambridge LTL | https://ltl.mmll.cam.ac.uk/ | |
 | Cardiff NLP | https://cardiffnlp.github.io/ | https://github.com/cardiffnlp |
@@ -75,6 +76,7 @@ A curated directory of academic Natural Language Processing (NLP) research labs 
 | UofT NLP | https://www.cs.toronto.edu/compling/ | |
 | UBC NLP | https://nlp.cs.ubc.ca/ | |
 | UKP Lab (TU Darmstadt) | https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp | |
+| UniMelb NLP | https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing | |
 | Waterloo NLP | https://ov-research.uwaterloo.ca/NLP_lab.html | | 
 
 
