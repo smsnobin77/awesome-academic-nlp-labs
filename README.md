@@ -9,7 +9,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
 | ASU NLP | Arizona State University | [Link](https://nlp.asu.edu/) | |
-| Berkeley NLP | University of California, Berkeley | [Link](https://nlp.cs.berkeley.edu/) | [Getting Started in NLP Research (https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
+| Berkeley NLP | University of California, Berkeley | [Link](https://nlp.cs.berkeley.edu/) | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
 | Brown NLP | Brown University | [Link](https://lunar.cs.brown.edu/) | |
 | Boulder NLP | University of Colorado Boulder | [Link](https://www.colorado.edu/research/bouldernlp/) | |
 | CMU LTI (Institute) | Carnegie Mellon University | [Link](https://www.lti.cs.cmu.edu/) | |
