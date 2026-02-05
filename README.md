@@ -82,6 +82,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | KAIST NLP*CL | https://nlpcl.kaist.ac.kr/home/ | |
 | McGill NLP | https://mcgill-nlp.github.io/ | |
 | MilaNLP | https://milanlproc.github.io/ | 
+| Montréal NLP (RALI) | http://rali.iro.umontreal.ca/rali/?q=en/homepage |
 | Munich AI & NLP Research Lab | https://mainlp.github.io/ | |
 | Milan NLP Group | https://milanlproc.github.io/ | |
 | NUS NLP | https://www.comp.nus.edu.sg/~nlp/ | |
