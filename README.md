@@ -8,7 +8,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 
 ## United States–Based Labs
 | Lab Name | Webpage | Other Links |
-|--------|--------|-------------|
+|-|-|-|
 | ASU NLP | https://nlp.asu.edu/ | |
 | Berkeley NLP | https://nlp.cs.berkeley.edu/ | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
 | Brown NLP | https://lunar.cs.brown.edu/ | |
