@@ -63,7 +63,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 ## Rest of the World
 
 | Lab Name | Webpage | Other Links |
-|--------|--------|-------------|
+|-|-|-|
 | Amsterdam NLPxDH | https://projects.illc.uva.nl/NLP-DH/ | | 
 | AUEB NLP | https://nlp.cs.aueb.gr/ | https://x.com/AUEBNLPGroup |
 | BIU NLP | https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/ | https://x.com/biunlp | 
