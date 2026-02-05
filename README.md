@@ -70,7 +70,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Cambridge NLP | University of Cambridge | [Link](https://www.cst.cam.ac.uk/research/themes/natural-language-processing) | |
 | Cambridge LTL | University of Cambridge | [Link](https://ltl.mmll.cam.ac.uk/) | |
 | Cardiff NLP | Cardiff University | [Link](https://cardiffnlp.github.io/) | https://github.com/cardiffnlp |
-| CS-NLP Group, Utrecht University | Utrecht University | [Link](https://github.com/cs-nlp-uu) | |
+| CS-NLP Group | Utrecht University | [Link](https://github.com/cs-nlp-uu) | |
 | Cope NLU | University of Copenhagen | [Link](https://www.copenlu.com/) | |
 | Edinburgh NLP | University of Edinburgh | [Link](https://edinburghnlp.inf.ed.ac.uk/) | https://github.com/EdinburghNLP |
 | EPFL NLP | EPFL (École Polytechnique Fédérale de Lausanne) | [Link](https://nlp.epfl.ch/) | |
@@ -94,7 +94,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UCL NLP | University College London | [Link](https://nlp.cs.ucl.ac.uk/) | |
 | UofT NLP | University of Toronto | [Link](https://www.cs.toronto.edu/compling/) | |
 | UBC NLP | University of British Columbia | [Link](https://nlp.cs.ubc.ca/) | |
-| UKP Lab (TU Darmstadt) | Technical University of Darmstadt | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
+| UKP Lab | Technical University of Darmstadt | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
 | UniMelb NLP | University of Melbourne | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
 | UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
 | UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
