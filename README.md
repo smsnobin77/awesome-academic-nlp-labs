@@ -43,7 +43,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UMass NLP | University of Massachusetts Amherst | [Link](https://nlp.cs.umass.edu/) | |
 | UCI NLP | University of California, Irvine | [Link](https://ucinlp.github.io/) | |
 | UNC NLP | University of North Carolina at Chapel Hill | [Link](https://nlp.cs.unc.edu/) | |
-| UMich LIT | University of Michigan | [Link](https://lit.eecs.umich.edu/index.html) | [https://lit.eecs.umich.edu/posters.html](https://lit.eecs.umich.edu/posters.html (Poster Gallery)) |
+| UMich LIT | University of Michigan | [Link](https://lit.eecs.umich.edu/index.html) | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
 | UW NLP | University of Washington | [Link](https://nlp.washington.edu/) | |
 | UT Austin NLP | University of Texas at Austin | [Link](https://www.nlp.utexas.edu/) | |
 | UPenn NLP | University of Pennsylvania | [Link](https://nlp.cis.upenn.edu/) | https://x.com/upennnlp |
