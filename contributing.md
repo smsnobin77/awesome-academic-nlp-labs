@@ -5,7 +5,7 @@ To add, remove, or update an entry, submit a pull request that adheres to the fo
 - Include only **active academic research labs** with a primary focus on Natural Language Processing (NLP), Computational Linguistics, Linguistics with a computational orientation, or closely related language technologies.
 - Link to the **official lab webpage**.
 - Verify that links are accessible and avoid duplicates.
-- Maintain **alphabetical ordering** within each region.
+- Maintain **alphabetical ordering** within each region by **lab name**.
 - Use the lab’s official name as the hyperlink.
 - Provide a **brief, neutral, non-promotional description**.
 - Place the description after the link on the same line and end it with a period.
