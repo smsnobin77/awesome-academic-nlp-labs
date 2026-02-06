@@ -59,7 +59,6 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UIC NLP Lab | University of Illinois Chicago | [Link](https://nlp.lab.uic.edu/) | |
 | USC NLP | University of Southern California | [Link](https://nlp.usc.edu/) | |
 | UCSD NLP | University of California, San Diego | [Link](https://ucsd-nlp.github.io/) | |
-| UF NLP | University of Florida | [Link](https://nlp.cise.ufl.edu/) | |
 | Utah NLP | University of Utah | [Link](https://nlp.cs.utah.edu/) | |
 | UMBC NLP | University of Maryland, Baltimore County | [Link](https://huggingface.co/umbc-nlp) | |
 | USF NLP | University of South Florida | [Link](https://nlp-grp.github.io/) | |
