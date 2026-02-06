@@ -129,7 +129,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 
 ## Contributing
 
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
+Please read the [contributing.md](contributing.md) before submitting a pull request.
 
 ## License
 
