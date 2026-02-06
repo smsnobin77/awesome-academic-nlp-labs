@@ -7,7 +7,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 - [Canada](#canada)
 - [United Kingdom](#united-kingdom)
 - [Europe](#europe)
-- [Asia-Pacific](#asia-pacific)
+- [Asia–Pacific](#asia–pacific)
 - [Middle East](#middle-east)
 
 ## United States
@@ -112,7 +112,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
 | UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
 
-## Asia-Pacific
+## Asia–Pacific
 
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
