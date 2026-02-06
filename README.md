@@ -72,8 +72,6 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UBC NLP | University of British Columbia | [Link](https://nlp.cs.ubc.ca/) | |
 | Waterloo NLP | University of Waterloo | [Link](https://ov-research.uwaterloo.ca/NLP_lab.html) | |
 
----
-
 ## United Kingdom
 
 | Lab Name | University | Webpage | Other Links |
@@ -86,8 +84,6 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | OxNLP | University of Oxford | [Link](https://eng.ox.ac.uk/oxnlp) | |
 | Sheffield NLP | University of Sheffield | [Link](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) | https://x.com/SheffieldNLP |
 | UCL NLP | University College London | [Link](https://nlp.cs.ucl.ac.uk/) | |
-
----
 
 ## Europe
 
@@ -108,8 +104,6 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
 | UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
 
----
-
 ## Asia–Pacific
 
 | Lab Name | University | Webpage | Other Links |
@@ -119,8 +113,6 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | NUS NLP | National University of Singapore | [Link](https://www.comp.nus.edu.sg/~nlp/) | |
 | Tsinghua NLP | Tsinghua University | [Link](https://github.com/thunlp) | |
 | UniMelb NLP | University of Melbourne | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
-
----
 
 ## Other Regions
 
