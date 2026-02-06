@@ -7,10 +7,11 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 - [Canada](#canada)
 - [United Kingdom](#united-kingdom)
 - [Europe](#europe)
-- [Asia-Pacific](#asia-Pacific)
+- [Asia-Pacific](#asia-pacific)
 - [Other Regions](#other-regions)
 
 ## United States
+
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
 | ASU NLP | Arizona State University | [Link](https://nlp.asu.edu/) | |
@@ -99,8 +100,8 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Cope NLU | University of Copenhagen | [Link](https://www.copenlu.com/) | |
 | EPFL NLP | EPFL (École Polytechnique Fédérale de Lausanne) | [Link](https://nlp.epfl.ch/) | |
 | Helsinki NLP | University of Helsinki | [Link](https://blogs.helsinki.fi/language-technology/) | https://x.com/HelsinkiNLP |
-| ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | https://x.com/NLPatITU |
 | Heidelberg NLP | Heidelberg University | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | https://x.com/HD_NLP |
+| ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | https://x.com/NLPatITU |
 | Munich AI & NLP Research Lab | LMU Munich | [Link](https://mainlp.github.io/) | |
 | Milan NLP Group | University of Milan | [Link](https://milanlproc.github.io/) | |
 | Sapienza NLP | Sapienza University of Rome | [Link](https://nlp.uniroma1.it/) | |
@@ -108,7 +109,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
 | UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
 
-## Asia–Pacific
+## Asia-Pacific
 
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
@@ -124,3 +125,12 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 |-|-|-|-|
 | BIU NLP | Bar-Ilan University | [Link](https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/) | https://x.com/biunlp |
 
+---
+
+## Contributing
+
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
+
+## License
+
+This project is licensed under the MIT License.
