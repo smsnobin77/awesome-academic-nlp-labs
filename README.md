@@ -1,4 +1,4 @@
-# Awesome Academic NLP Research Labs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Academic NLP Research Labs
 
 A curated directory of academic NLP research labs worldwide. Entries link to official lab webpages and are ordered alphabetically by **lab name**, without implying any ranking. Labs are grouped by geographic region, including the United States, Canada, the United Kingdom, Europe, Asia-Pacific, and the Middle East. Contributions are welcome.
 
