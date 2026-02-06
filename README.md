@@ -116,18 +116,18 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
-| CFILT | IIT Bombay | https://www.cfilt.iitb.ac.in/ | |
+| CFILT | IIT Bombay | [Link](https://www.cfilt.iitb.ac.in/) | |
 | HKUST NLP | Hong Kong University of Science and Technology | [Link](https://hltchkust.github.io/) | |
 | ICT/CAS NLP Group | Institute of Computing Technology, Chinese Academy of Sciences | [Link](https://nlp.ict.ac.cn/en/) | |
 | KAIST NLP*CL | Korea Advanced Institute of Science and Technology (KAIST) | [Link](https://nlpcl.kaist.ac.kr/home/) | |
-| LTRC | IIIT Hyderabad | https://ltrc.iiit.ac.in/ | |
-| NAIST NLP | Nara Institute of Science and Technology | https://nlp.naist.jp/en/ | |
+| LTRC | IIIT Hyderabad | [Link](https://ltrc.iiit.ac.in/) | |
+| NAIST NLP | Nara Institute of Science and Technology | [Link](https://nlp.naist.jp/en/) | |
 | NUS NLP | National University of Singapore | [Link](https://www.comp.nus.edu.sg/~nlp/) | |
 | NTU-NLP | Nanyang Technological University | [Link](https://ntunlpsg.github.io/) | |
-| SNU NLP | Seoul National University | https://nlp.snu.ac.kr/ | |
+| SNU NLP | Seoul National University | [Link](https://nlp.snu.ac.kr/) | |
 | Tsinghua NLP | Tsinghua University | [Link](https://github.com/thunlp) | |
 | TJUNLP | Tianjin University | [Link](https://tjunlp-lab.github.io/) | |
-| Tohoku NLP | Tohoku University | http://www.nlp.ecei.tohoku.ac.jp/ | |
+| Tohoku NLP | Tohoku University | [Link](http://www.nlp.ecei.tohoku.ac.jp/) | |
 | UniMelb NLP | University of Melbourne | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
 
 ---
@@ -140,9 +140,9 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | CAMeL Lab | New York University Abu Dhabi | [Link](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab.html) | |
 | NLP @ MBZUAI | Mohamed bin Zayed University of Artificial Intelligence | [Link](https://mbzuai.ac.ae/research-department/natural-language-processing-department/) | |
 | BIU NLP | Bar-Ilan University | [Link](https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/) | https://x.com/biunlp |
-| BGU NLP | Ben-Gurion University of the Negev | https://bgunlp.github.io/ | |
+| BGU NLP | Ben-Gurion University of the Negev | [Link](https://bgunlp.github.io/) | |
 | HUJI NLP | Hebrew University of Jerusalem |  | https://x.com/nlphuji |
-| Technion NLP | Technion – Israel Institute of Technology | https://nlp.cs.technion.ac.il/ | |
+| Technion NLP | Technion – Israel Institute of Technology | [Link](https://nlp.cs.technion.ac.il/) | |
 
 ---
 
