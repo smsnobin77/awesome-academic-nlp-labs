@@ -1,14 +1,14 @@
 # Awesome Academic NLP Research Labs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated directory of academic NLP research labs worldwide. Entries link to official lab webpages and are ordered alphabetically by **lab name**, without implying any ranking. Labs are grouped by geographic region, including the United States, Canada, the United Kingdom, Europe, Asia-Pacific, and Other Regions. Contributions are welcome.
+A curated directory of academic NLP research labs worldwide. Entries link to official lab webpages and are ordered alphabetically by **lab name**, without implying any ranking. Labs are grouped by geographic region, including the United States, Canada, the United Kingdom, Europe, Asia–Pacific, and the Middle East. Contributions are welcome.
 
 ## Regional Coverage
 - [United States](#united-states)
 - [Canada](#canada)
 - [United Kingdom](#united-kingdom)
 - [Europe](#europe)
-- [Asia-Pacific](#asia-pacific)
-- [Other Regions](#other-regions)
+- [Asia–Pacific](#asia-pacific)
+- [Middle East](#middle-east)
 
 ## United States
 
@@ -112,7 +112,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
 | UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
 
-## Asia-Pacific
+## Asia–Pacific
 
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
@@ -121,22 +121,27 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | ICT/CAS NLP Group | Institute of Computing Technology, Chinese Academy of Sciences | [Link](https://nlp.ict.ac.cn/en/) | |
 | KAIST NLP*CL | Korea Advanced Institute of Science and Technology (KAIST) | [Link](https://nlpcl.kaist.ac.kr/home/) | |
 | LTRC | IIIT Hyderabad | https://ltrc.iiit.ac.in/ | |
+| NAIST NLP | Nara Institute of Science and Technology | https://nlp.naist.jp/en/ | |
 | NUS NLP | National University of Singapore | [Link](https://www.comp.nus.edu.sg/~nlp/) | |
 | NTU-NLP | Nanyang Technological University | [Link](https://ntunlpsg.github.io/) | |
-| NAIST NLP | Nara Institute of Science and Technology | https://nlp.naist.jp/en/ | |
 | SNU NLP | Seoul National University | https://nlp.snu.ac.kr/ | |
 | Tsinghua NLP | Tsinghua University | [Link](https://github.com/thunlp) | |
 | TJUNLP | Tianjin University | [Link](https://tjunlp-lab.github.io/) | |
 | Tohoku NLP | Tohoku University | http://www.nlp.ecei.tohoku.ac.jp/ | |
 | UniMelb NLP | University of Melbourne | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
 
-## Other Regions
+---
+
+## Middle East
 
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
+| ALT @ QCRI | Hamad Bin Khalifa University | [Link](https://www.hbku.edu.qa/en/qcri/research-area/arabic-language-technologies) | |
+| CAMeL Lab | New York University Abu Dhabi | [Link](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab.html) | |
+| NLP @ MBZUAI | Mohamed bin Zayed University of Artificial Intelligence | [Link](https://mbzuai.ac.ae/research-department/natural-language-processing-department/) | |
 | BIU NLP | Bar-Ilan University | [Link](https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/) | https://x.com/biunlp |
 | BGU NLP | Ben-Gurion University of the Negev | https://bgunlp.github.io/ | |
-| HUJI NLP | Hebrew University of Jerusalem | | https://x.com/nlphuji |
+| HUJI NLP | Hebrew University of Jerusalem |  | https://x.com/nlphuji |
 | Technion NLP | Technion – Israel Institute of Technology | https://nlp.cs.technion.ac.il/ | |
 
 ---
