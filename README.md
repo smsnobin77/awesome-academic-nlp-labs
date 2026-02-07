@@ -153,4 +153,4 @@ Please read the [contributing.md](contributing.md) before submitting a pull requ
 
 ## License
 
-This project is licensed under the MIT License.
+This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal license.
