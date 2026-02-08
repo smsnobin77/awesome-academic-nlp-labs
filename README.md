@@ -43,7 +43,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Rutgers Comp Ling Lab | Rutgers University | [Link](https://rucll.github.io/index.html) | |
 | Stanford NLP Group | Stanford University | [Link](https://nlp.stanford.edu/) | |
 | Stony Brook NLP | Stony Brook University | [Link](https://nlp.cs.stonybrook.edu/) | |
-| Texas A&M NLP | Texas A&M University | [Link](https://nlp.cs.tamu.edu/) | |
+| Texas A&M NLP | Texas A&M University | [Link](https://nlp.cs.tamu.edu/) | [Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) |
 | UIUC NLP | University of Illinois Urbana-Champaign | [Link](https://nlp.cs.illinois.edu/) | |
 | UMD NLP | University of Maryland, College Park | [Link](https://www.cs.umd.edu/researcharea/natural-language-processing) | |
 | UCLA NLP | University of California, Los Angeles | [Link](https://nlp.ucla.edu/) | https://uclanlp.github.io/nlp-seminar/ |
