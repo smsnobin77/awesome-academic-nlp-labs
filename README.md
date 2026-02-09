@@ -109,6 +109,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Munich AI & NLP Research Lab | LMU Munich | [Link](https://mainlp.github.io/) | |
 | Milan NLP Group | University of Milan | [Link](https://milanlproc.github.io/) | |
 | Sapienza NLP | Sapienza University of Rome | [Link](https://nlp.uniroma1.it/) | |
+| TurkuNLP | University of Turku | [Link](https://turkunlp.org/) | |
 | UKP Lab | Technical University of Darmstadt | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
 | UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
 | UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
