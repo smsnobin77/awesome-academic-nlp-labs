@@ -31,7 +31,6 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Harvard NLP | Harvard University | [Link](https://nlp.seas.harvard.edu/) | |
 | Howard NLP | Howard University | [Link](https://nlp.howard.edu/) | |
 | IU NLP Lab | Indiana University Bloomington | [Link](https://nlp-lab.org/) | |
-| IR lab | Georgetown University | [Link](https://ir.cs.georgetown.edu/) | |
 | JHU CLSP (Institute) | Johns Hopkins University | [Link](https://www.clsp.jhu.edu/) | |
 | MIT NLP | Massachusetts Institute of Technology | [Link](https://www.csail.mit.edu/research/natural-language-processing-group) | |
 | Minnesota NLP | University of Minnesota | [Link](https://minnesotanlp.github.io/) | |
