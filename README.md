@@ -19,19 +19,21 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Brown NLP | Brown University | [Link](https://lunar.cs.brown.edu/) | |
 | Boulder NLP | University of Colorado Boulder | [Link](https://www.colorado.edu/research/bouldernlp/) | |
 | BLT Lab | Brandeis University | [Link](https://github.com/bltlab) | |
-| CMU LTI (Institute) | Carnegie Mellon University | [Link](https://www.lti.cs.cmu.edu/) | |
+| CaLiCo Lab | University at Buffalo | [Link](https://www.acsu.buffalo.edu/~cxjacobs/CaLiCo_Lab.html) | |
 | ChangeLing Lab | Carnegie Mellon University | [Link](https://changelinglab.github.io/) | |
-| Corpling Lab | Georgetown University | [Link](https://gucorpling.org/corpling/) | |
-| Cornell NLP | Cornell University | [Link](https://nlp.cornell.edu/) | |
-| Columbia NLP | Columbia University | [Link](https://www.cs.columbia.edu/nlp/) | |
-| Compling@UF | University of Florida | [Link](https://spaceship.lin.ufl.edu/) | [Zoey Liu](https://zoeyliu18.github.io/) |
 | CincyNLP Lab | University of Cincinnati | [Link](https://jiangtianyu.com/lab/) | |
+| CLAY Lab | Yale University | [Link](https://clay.yale.edu/) | |
 | CLIP Lab | University of Maryland College Park | [Link](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) | [x](https://x.com/ClipUmd) |
 | CLLT | Ohio State University | [Link](https://u.osu.edu/cllt/events/clippers/)| |
+| CMU LTI (Institute) | Carnegie Mellon University | [Link](https://www.lti.cs.cmu.edu/) | |
 | CoCoMo Lab | Ohio State University | [Link](https://linguistics.osu.edu/schulerlab)| |
-| CaLiCo Lab | University at Buffalo | [Link](https://www.acsu.buffalo.edu/~cxjacobs/CaLiCo_Lab.html) | |
+| Columbia NLP | Columbia University | [Link](https://www.cs.columbia.edu/nlp/) | |
+| Compling@UF | University of Florida | [Link](https://spaceship.lin.ufl.edu/) | [Zoey Liu](https://zoeyliu18.github.io/) |
+| Cornell NLP | Cornell University | [Link](https://nlp.cornell.edu/) | |
+| Corpling Lab | Georgetown University | [Link](https://gucorpling.org/corpling/) | |
 | DukeNLP | Duke University | [Link](https://nlplab.cs.duke.edu/) | |
 | Emory NLP | Emory University | [Link](https://www.emorynlp.org/) | |
+| FACTS.lab | University of Rochester | [Link](https://factslab.io/) | |
 | George Mason NLP | George Mason University | [Link](https://nlp.cs.gmu.edu/) | |
 | GMU Computational Linguistics | George Mason University | | [x](https://x.com/GMUCompLing) |
 | GUCL | Georgetown University | [Link](https://gucl.georgetown.edu/) | [x](https://x.com/GUCompLing) |
@@ -60,24 +62,24 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Stony Brook NLP | Stony Brook University | [Link](https://nlp.cs.stonybrook.edu/) | |
 | Texas A&M NLP | Texas A&M University | [Link](https://nlp.cs.tamu.edu/) | [Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) |
 | tinlab | Boston University | [Link](https://www.bu.edu/linguistics/research/faculty-research-labs/tinlab/) | |
-| UIUC NLP | University of Illinois Urbana-Champaign | [Link](https://nlp.cs.illinois.edu/) | |
-| UMD NLP | University of Maryland, College Park | [Link](https://www.cs.umd.edu/researcharea/natural-language-processing) | |
-| UCLA NLP | University of California, Los Angeles | [Link](https://nlp.ucla.edu/) | https://uclanlp.github.io/nlp-seminar/ |
-| UMass NLP | University of Massachusetts Amherst | [Link](https://nlp.cs.umass.edu/) | |
-| UCI NLP | University of California, Irvine | [Link](https://ucinlp.github.io/) | |
-| UNC NLP | University of North Carolina at Chapel Hill | [Link](https://nlp.cs.unc.edu/) | |
-| UMich LIT | University of Michigan | [Link](https://lit.eecs.umich.edu/index.html) | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
-| UW NLP | University of Washington | [Link](https://nlp.washington.edu/) | |
-| UT Austin NLP | University of Texas at Austin | [Link](https://www.nlp.utexas.edu/) | |
-| UPenn NLP | University of Pennsylvania | [Link](https://nlp.cis.upenn.edu/) | https://x.com/upennnlp |
-| UCSB NLP | University of California, Santa Barbara | [Link](http://nlp.cs.ucsb.edu/) | |
 | UArizona CLU | University of Arizona | [Link](https://clulab.org/) | |
-| UIC NLP Lab | University of Illinois Chicago | [Link](https://nlp.lab.uic.edu/) | |
-| USC NLP | University of Southern California | [Link](https://nlp.usc.edu/) | |
 | UCSD NLP | University of California, San Diego | [Link](https://ucsd-nlp.github.io/) | |
-| Utah NLP | University of Utah | [Link](https://nlp.cs.utah.edu/) | |
+| UCI NLP | University of California, Irvine | [Link](https://ucinlp.github.io/) | |
+| UCLA NLP | University of California, Los Angeles | [Link](https://nlp.ucla.edu/) | https://uclanlp.github.io/nlp-seminar/ |
+| UCSB NLP | University of California, Santa Barbara | [Link](http://nlp.cs.ucsb.edu/) | |
+| UIC NLP Lab | University of Illinois Chicago | [Link](https://nlp.lab.uic.edu/) | |
+| UIUC NLP | University of Illinois Urbana-Champaign | [Link](https://nlp.cs.illinois.edu/) | |
 | UMBC NLP | University of Maryland, Baltimore County | [Link](https://huggingface.co/umbc-nlp) | |
+| UMass NLP | University of Massachusetts Amherst | [Link](https://nlp.cs.umass.edu/) | |
+| UMich LIT | University of Michigan | [Link](https://lit.eecs.umich.edu/index.html) | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
+| UMD NLP | University of Maryland, College Park | [Link](https://www.cs.umd.edu/researcharea/natural-language-processing) | |
+| UNC NLP | University of North Carolina at Chapel Hill | [Link](https://nlp.cs.unc.edu/) | |
+| UPenn NLP | University of Pennsylvania | [Link](https://nlp.cis.upenn.edu/) | https://x.com/upennnlp |
+| USC NLP | University of Southern California | [Link](https://nlp.usc.edu/) | |
 | USF NLP | University of South Florida | [Link](https://nlp-grp.github.io/) | |
+| UT Austin NLP | University of Texas at Austin | [Link](https://www.nlp.utexas.edu/) | |
+| Utah NLP | University of Utah | [Link](https://nlp.cs.utah.edu/) | |
+| UW NLP | University of Washington | [Link](https://nlp.washington.edu/) | |
 | WashU NLP | Washington University in St. Louis | [Link](https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html) | |
 | Yale NLP | Yale University | [Link](https://nlp.cs.yale.edu/) | https://x.com/yalenlp |
 
