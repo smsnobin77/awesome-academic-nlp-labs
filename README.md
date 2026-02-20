@@ -181,6 +181,19 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 
 Please read the [contributing.md](contributing.md) before submitting a pull request.
 
+## Citation
+
+If you find this repository useful, please consider citing it as:
+
+```bibtex
+@misc{sarwar2026awesome-nlp-labs,
+  author       = {Sarwar, Nobin},
+  title        = {{Awesome Academic NLP Research Labs}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/smsnobin77/awesome-academic-nlp-labs}},
+  note         = {GitHub repository}
+}
+
 ## Acknowledgments
 
 This repository benefited from the following resources:
