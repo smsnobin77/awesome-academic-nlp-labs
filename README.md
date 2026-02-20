@@ -113,6 +113,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UKP Lab | Technical University of Darmstadt | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
 | UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
 | UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
+| Uppsala NLP | Uppsala University | [Link](https://www.linkedin.com/in/uppsala-nlp-470703354/) | [GitHub](https://github.com/UppsalaNLP) |
 
 ## Asia-Pacific
 
@@ -131,6 +132,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | TJUNLP | Tianjin University | [Link](https://tjunlp-lab.github.io/) | |
 | Tohoku NLP | Tohoku University | [Link](http://www.nlp.ecei.tohoku.ac.jp/) | |
 | UniMelb NLP | University of Melbourne | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
+| WestlakeNLP | Westlake University | [Link](https://westlakenlp.com/) | |
 
 ---
 
@@ -138,6 +140,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
+| Aram Lab | Mohamed bin Zayed University of Artificial Intelligence | [Link](https://aramlab.ai/) | |
 | ALT @ QCRI | Hamad Bin Khalifa University | [Link](https://www.hbku.edu.qa/en/qcri/research-area/arabic-language-technologies) | |
 | CAMeL Lab | New York University Abu Dhabi | [Link](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab.html) | |
 | NLP @ MBZUAI | Mohamed bin Zayed University of Artificial Intelligence | [Link](https://mbzuai.ac.ae/research-department/natural-language-processing-department/) | |
