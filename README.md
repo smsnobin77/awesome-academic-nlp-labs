@@ -25,6 +25,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | DukeNLP | Duke University | [Link](https://nlplab.cs.duke.edu/) | |
 | Emory NLP | Emory University | [Link](https://www.emorynlp.org/) | |
 | George Mason NLP | George Mason University | [Link](https://nlp.cs.gmu.edu/) | |
+| GUCL | Georgetown University | [Link](https://gucl.georgetown.edu/) | [x](https://x.com/GUCompLing) |
 | Harvard NLP | Harvard University | [Link](https://nlp.seas.harvard.edu/) | |
 | Howard NLP | Howard University | [Link](https://nlp.howard.edu/) | |
 | IU NLP Lab | Indiana University Bloomington | [Link](https://nlp-lab.org/) | |
@@ -82,7 +83,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
 | Cambridge NLP | University of Cambridge | [Link](https://www.cst.cam.ac.uk/research/themes/natural-language-processing) | |
-| Cambridge LTL | University of Cambridge | [Link](https://ltl.mmll.cam.ac.uk/) | |
+| Cambridge LTL | University of Cambridge | [Link](https://ltl.mmll.cam.ac.uk/) | [x](https://x.com/CambridgeLTL) |
 | Cardiff NLP | Cardiff University | [Link](https://cardiffnlp.github.io/) | https://github.com/cardiffnlp |
 | Edinburgh NLP | University of Edinburgh | [Link](https://edinburghnlp.inf.ed.ac.uk/) | https://github.com/EdinburghNLP |
 | HWU NLP Lab | Heriot-Watt University | [Link](https://sites.google.com/view/nlplab/) | |
@@ -101,6 +102,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | CLTL | Vrije Universiteit Amsterdam | [Link](https://home.cltl.labs.vu.nl/) | |
 | Cope NLU | University of Copenhagen | [Link](https://www.copenlu.com/) | |
 | EPFL NLP | EPFL (École Polytechnique Fédérale de Lausanne) | [Link](https://nlp.epfl.ch/) | |
+| GroNLP | University of Groningen | [Link](https://www.rug.nl/research/clcg/research/cl/) | [x](https://x.com/GroNlp)
 | Helsinki NLP | University of Helsinki | [Link](https://blogs.helsinki.fi/language-technology/) | https://x.com/HelsinkiNLP |
 | Heidelberg NLP | Heidelberg University | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | https://x.com/HD_NLP |
 | ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | https://x.com/NLPatITU |
