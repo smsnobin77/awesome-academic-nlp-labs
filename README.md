@@ -18,6 +18,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Berkeley NLP | University of California, Berkeley | [Link](https://nlp.cs.berkeley.edu/) | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
 | Brown NLP | Brown University | [Link](https://lunar.cs.brown.edu/) | |
 | Boulder NLP | University of Colorado Boulder | [Link](https://www.colorado.edu/research/bouldernlp/) | |
+| BLT Lab | Brandeis University | [Link](https://github.com/bltlab) | |
 | CMU LTI (Institute) | Carnegie Mellon University | [Link](https://www.lti.cs.cmu.edu/) | |
 | Corpling Lab | Georgetown University | [Link](https://gucorpling.org/corpling/) | |
 | Cornell NLP | Cornell University | [Link](https://nlp.cornell.edu/) | |
@@ -49,6 +50,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Stanford NLP Group | Stanford University | [Link](https://nlp.stanford.edu/) | |
 | Stony Brook NLP | Stony Brook University | [Link](https://nlp.cs.stonybrook.edu/) | |
 | Texas A&M NLP | Texas A&M University | [Link](https://nlp.cs.tamu.edu/) | [Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) |
+| tinlab | Boston University | [Link](https://www.bu.edu/linguistics/research/faculty-research-labs/tinlab/) | |
 | UIUC NLP | University of Illinois Urbana-Champaign | [Link](https://nlp.cs.illinois.edu/) | |
 | UMD NLP | University of Maryland, College Park | [Link](https://www.cs.umd.edu/researcharea/natural-language-processing) | |
 | UCLA NLP | University of California, Los Angeles | [Link](https://nlp.ucla.edu/) | https://uclanlp.github.io/nlp-seminar/ |
