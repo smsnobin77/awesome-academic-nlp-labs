@@ -186,7 +186,6 @@ Please read the [contributing.md](contributing.md) before submitting a pull requ
 This repository benefited from the following resources:
 
 - Computational Linguistics and NLP Research in North American Linguistics Departments — Prof. Nathan Schneider (Georgetown University) - [Link](https://nschneid.github.io/nlp-in-ling/)  
-
 - Top Natural Language Processing Labs in Academia - [Link](https://phaseai.com/resources/top-academic-nlp-labs)
 
 ## License
