@@ -22,6 +22,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Cornell NLP | Cornell University | [Link](https://nlp.cornell.edu/) | |
 | Columbia NLP | Columbia University | [Link](https://www.cs.columbia.edu/nlp/) | |
 | CincyNLP Lab | University of Cincinnati | [Link](https://jiangtianyu.com/lab/) | |
+| CLIP Lab | University of Maryland College Park | [Link](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) | [x](https://x.com/ClipUmd) |
 | DukeNLP | Duke University | [Link](https://nlplab.cs.duke.edu/) | |
 | Emory NLP | Emory University | [Link](https://www.emorynlp.org/) | |
 | George Mason NLP | George Mason University | [Link](https://nlp.cs.gmu.edu/) | |
