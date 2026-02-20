@@ -76,14 +76,14 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UMich LIT | University of Michigan | [Link](https://lit.eecs.umich.edu/index.html) | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
 | UMD NLP | University of Maryland, College Park | [Link](https://www.cs.umd.edu/researcharea/natural-language-processing) | |
 | UNC NLP | University of North Carolina at Chapel Hill | [Link](https://nlp.cs.unc.edu/) | |
-| UPenn NLP | University of Pennsylvania | [Link](https://nlp.cis.upenn.edu/) | https://x.com/upennnlp |
+| UPenn NLP | University of Pennsylvania | [Link](https://nlp.cis.upenn.edu/) | [x](https://x.com/upennnlp) |
 | USC NLP | University of Southern California | [Link](https://nlp.usc.edu/) | |
 | USF NLP | University of South Florida | [Link](https://nlp-grp.github.io/) | |
 | UT Austin NLP | University of Texas at Austin | [Link](https://www.nlp.utexas.edu/) | |
 | Utah NLP | University of Utah | [Link](https://nlp.cs.utah.edu/) | |
 | UW NLP | University of Washington | [Link](https://nlp.washington.edu/) | |
 | WashU NLP | Washington University in St. Louis | [Link](https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html) | |
-| Yale NLP | Yale University | [Link](https://nlp.cs.yale.edu/) | https://x.com/yalenlp |
+| Yale NLP | Yale University | [Link](https://nlp.cs.yale.edu/) | [x](https://x.com/yalenlp) |
 
 ## Canada
 
@@ -104,12 +104,12 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 |-|-|-|-|
 | Cambridge NLP | University of Cambridge | [Link](https://www.cst.cam.ac.uk/research/themes/natural-language-processing) | |
 | Cambridge LTL | University of Cambridge | [Link](https://ltl.mmll.cam.ac.uk/) | [x](https://x.com/CambridgeLTL) |
-| Cardiff NLP | Cardiff University | [Link](https://cardiffnlp.github.io/) | https://github.com/cardiffnlp |
-| Edinburgh NLP | University of Edinburgh | [Link](https://edinburghnlp.inf.ed.ac.uk/) | https://github.com/EdinburghNLP |
+| Cardiff NLP | Cardiff University | [Link](https://cardiffnlp.github.io/) | [GitHub](https://github.com/cardiffnlp) |
+| Edinburgh NLP | University of Edinburgh | [Link](https://edinburghnlp.inf.ed.ac.uk/) | [GitHub](https://github.com/EdinburghNLP) |
 | HWU NLP | Heriot-Watt University | [Link](https://sites.google.com/view/nlplab/) | |
 | Imperial NLP | Imperial College London | [Link](https://nlp.doc.ic.ac.uk/) | |
 | OxNLP | University of Oxford | [Link](https://eng.ox.ac.uk/oxnlp) | |
-| Sheffield NLP | University of Sheffield | [Link](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) | https://x.com/SheffieldNLP |
+| Sheffield NLP | University of Sheffield | [Link](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) | [x](https://x.com/SheffieldNLP) |
 | UCL NLP | University College London | [Link](https://nlp.cs.ucl.ac.uk/) | |
 | UCREL NLP | Lancaster University | [Link](https://ucrel.lancs.ac.uk/) | [x](https://x.com/UCREL_NLP) |
 
@@ -118,15 +118,15 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
 | Amsterdam NLPxDH | University of Amsterdam | [Link](https://projects.illc.uva.nl/NLP-DH/) | |
-| AUEB NLP | Athens University of Economics and Business | [Link](https://nlp.cs.aueb.gr/) | https://x.com/AUEBNLPGroup |
+| AUEB NLP | Athens University of Economics and Business | [Link](https://nlp.cs.aueb.gr/) | [x](https://x.com/AUEBNLPGroup) |
 | CS-NLP | Utrecht University | [Link](https://github.com/cs-nlp-uu) | |
 | CLTL | Vrije Universiteit Amsterdam | [Link](https://home.cltl.labs.vu.nl/) | |
 | Cope NLU | University of Copenhagen | [Link](https://www.copenlu.com/) | |
 | EPFL NLP | EPFL (École Polytechnique Fédérale de Lausanne) | [Link](https://nlp.epfl.ch/) | |
 | GroNLP | University of Groningen | [Link](https://www.rug.nl/research/clcg/research/cl/) | [x](https://x.com/GroNlp)
-| Helsinki NLP | University of Helsinki | [Link](https://blogs.helsinki.fi/language-technology/) | https://x.com/HelsinkiNLP |
-| Heidelberg NLP | Heidelberg University | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | https://x.com/HD_NLP |
-| ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | https://x.com/NLPatITU |
+| Helsinki NLP | University of Helsinki | [Link](https://blogs.helsinki.fi/language-technology/) | [x](https://x.com/HelsinkiNLP) |
+| Heidelberg NLP | Heidelberg University | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | [x](https://x.com/HD_NLP) |
+| ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | [x](https://x.com/NLPatITU) |
 | ILLC | University of Amsterdam | [Link](https://www.illc.uva.nl/) | |
 | IDSIA NLP | IDSIA | [Link](https://nlp.idsia.ch/) | [x](https://x.com/idsianlp) |
 | ItaliaNLP | Istituto di Linguistica Computazionale “Antonio Zampolli” (ILC-CNR) | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
@@ -137,8 +137,8 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Sapienza NLP | Sapienza University of Rome | [Link](https://nlp.uniroma1.it/) | |
 | TurkuNLP | University of Turku | [Link](https://turkunlp.org/) | |
 | UKP Lab | Technical University of Darmstadt | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
-| UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | https://x.com/NlpUnior |
-| UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | https://x.com/ugentnlp |
+| UniOr NLP | University of Naples "L'Orientale" | [Link](https://sites.google.com/view/unior-nlp-research-group) | [x](https://x.com/NlpUnior) |
+| UGent NLP | Ghent University | [Link](https://ugentt2k.github.io/) | [x](https://x.com/ugentnlp) |
 | Uppsala NLP | Uppsala University | [Link](https://www.linkedin.com/in/uppsala-nlp-470703354/) | [GitHub](https://github.com/UppsalaNLP) |
 
 ## Asia-Pacific
