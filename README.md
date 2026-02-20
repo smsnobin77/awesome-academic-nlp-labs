@@ -67,13 +67,13 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UArizona CLU | University of Arizona | [Link](https://clulab.org/) | |
 | UCSD NLP | University of California, San Diego | [Link](https://ucsd-nlp.github.io/) | |
 | UCI NLP | University of California, Irvine | [Link](https://ucinlp.github.io/) | |
-| UCLA NLP | University of California, Los Angeles | [Link](https://nlp.ucla.edu/) | https://uclanlp.github.io/nlp-seminar/ |
+| UCLA NLP | University of California, Los Angeles | [Link](https://nlp.ucla.edu/) | [GitHub](https://uclanlp.github.io/nlp-seminar/) |
 | UCSB NLP | University of California, Santa Barbara | [Link](http://nlp.cs.ucsb.edu/) | |
 | UIC NLP | University of Illinois Chicago | [Link](https://nlp.lab.uic.edu/) | |
 | UIUC NLP | University of Illinois Urbana-Champaign | [Link](https://nlp.cs.illinois.edu/) | |
 | UMBC NLP | University of Maryland, Baltimore County | [Link](https://huggingface.co/umbc-nlp) | |
 | UMass NLP | University of Massachusetts Amherst | [Link](https://nlp.cs.umass.edu/) | |
-| UMich LIT | University of Michigan | [Link](https://lit.eecs.umich.edu/index.html) | https://lit.eecs.umich.edu/posters.html (Poster Gallery) |
+| UMich LIT | University of Michigan | [Link](https://lit.eecs.umich.edu/index.html) | [Poster Gallery](https://lit.eecs.umich.edu/posters.html) |
 | UMD NLP | University of Maryland, College Park | [Link](https://www.cs.umd.edu/researcharea/natural-language-processing) | |
 | UNC NLP | University of North Carolina at Chapel Hill | [Link](https://nlp.cs.unc.edu/) | |
 | UPenn NLP | University of Pennsylvania | [Link](https://nlp.cis.upenn.edu/) | [x](https://x.com/upennnlp) |
@@ -175,9 +175,9 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | ALT @ QCRI | Hamad Bin Khalifa University | [Link](https://www.hbku.edu.qa/en/qcri/research-area/arabic-language-technologies) | |
 | CAMeL Lab | New York University Abu Dhabi | [Link](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab.html) | |
 | NLP @ MBZUAI | Mohamed bin Zayed University of Artificial Intelligence | [Link](https://mbzuai.ac.ae/research-department/natural-language-processing-department/) | |
-| BIU NLP | Bar-Ilan University | [Link](https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/) | https://x.com/biunlp |
+| BIU NLP | Bar-Ilan University | [Link](https://cris.biu.ac.il/en/organisations/natural-language-processing-lab/) | [x](https://x.com/biunlp) |
 | BGU NLP | Ben-Gurion University of the Negev | [Link](https://bgunlp.github.io/) | |
-| HUJI NLP | Hebrew University of Jerusalem |  | https://x.com/nlphuji |
+| HUJI NLP | Hebrew University of Jerusalem |  | [x](https://x.com/nlphuji) |
 | Technion NLP | Technion – Israel Institute of Technology | [Link](https://nlp.cs.technion.ac.il/) | |
 
 ---
