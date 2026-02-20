@@ -20,20 +20,26 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Boulder NLP | University of Colorado Boulder | [Link](https://www.colorado.edu/research/bouldernlp/) | |
 | BLT Lab | Brandeis University | [Link](https://github.com/bltlab) | |
 | CMU LTI (Institute) | Carnegie Mellon University | [Link](https://www.lti.cs.cmu.edu/) | |
+| ChangeLing Lab | Carnegie Mellon University | [Link](https://changelinglab.github.io/) | |
 | Corpling Lab | Georgetown University | [Link](https://gucorpling.org/corpling/) | |
 | Cornell NLP | Cornell University | [Link](https://nlp.cornell.edu/) | |
 | Columbia NLP | Columbia University | [Link](https://www.cs.columbia.edu/nlp/) | |
 | CincyNLP Lab | University of Cincinnati | [Link](https://jiangtianyu.com/lab/) | |
 | CLIP Lab | University of Maryland College Park | [Link](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) | [x](https://x.com/ClipUmd) |
+| CLLT | Ohio State University | [Link](https://u.osu.edu/cllt/events/clippers/)| |
+| CoCoMo Lab | Ohio State University | [Link](https://linguistics.osu.edu/schulerlab)| |
 | DukeNLP | Duke University | [Link](https://nlplab.cs.duke.edu/) | |
 | Emory NLP | Emory University | [Link](https://www.emorynlp.org/) | |
 | George Mason NLP | George Mason University | [Link](https://nlp.cs.gmu.edu/) | |
+| GMU Computational Linguistics | George Mason University | | [x](https://x.com/GMUCompLing) |
 | GUCL | Georgetown University | [Link](https://gucl.georgetown.edu/) | [x](https://x.com/GUCompLing) |
 | GU-HLT | Georgetown University | [Link](https://docs.google.com/document/d/e/2PACX-1vSYF8OB68Sxmz7KUoRB1ENheDtuOrIlRtEXA2Etu3rSKTMY3fTxS-NKqf__Iw3WSmBoD0ijyYm_vPl_/pub) | |
 | Harvard NLP | Harvard University | [Link](https://nlp.seas.harvard.edu/) | |
 | Howard NLP | Howard University | [Link](https://nlp.howard.edu/) | |
 | IU NLP Lab | Indiana University Bloomington | [Link](https://nlp-lab.org/) | |
 | JHU CLSP (Institute) | Johns Hopkins University | [Link](https://www.clsp.jhu.edu/) | |
+| LLab | Carnegie Mellon University | [Link](https://llab-cmu.github.io/) | |
+| Linguistic Mechanisms Lab | University of California, Davis | [Link](https://robvoigt.faculty.ucdavis.edu/) | | 
 | MIT NLP | Massachusetts Institute of Technology | [Link](https://www.csail.mit.edu/research/natural-language-processing-group) | |
 | Minnesota NLP | University of Minnesota | [Link](https://minnesotanlp.github.io/) | |
 | Montclair NLP Lab | Montclair State University | [Link](https://sites.google.com/view/montclairnlplab/) | |
@@ -135,6 +141,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | NAIST NLP | Nara Institute of Science and Technology | [Link](https://nlp.naist.jp/en/) | |
 | NUS NLP | National University of Singapore | [Link](https://www.comp.nus.edu.sg/~nlp/) | |
 | NTU-NLP | Nanyang Technological University | [Link](https://ntunlpsg.github.io/) | |
+| NYCU NLP | National Yang Ming Chiao Tung University | [Link](https://azyen0522.github.io/#lab) | |
 | SNU NLP | Seoul National University | [Link](https://nlp.snu.ac.kr/) | |
 | Tsinghua NLP | Tsinghua University | [Link](https://github.com/thunlp) | |
 | TJUNLP | Tianjin University | [Link](https://tjunlp-lab.github.io/) | |
