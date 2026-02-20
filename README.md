@@ -46,7 +46,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Linguistic Mechanisms Lab | University of California, Davis | [Link](https://robvoigt.faculty.ucdavis.edu/) | | 
 | MIT NLP | Massachusetts Institute of Technology | [Link](https://www.csail.mit.edu/research/natural-language-processing-group) | |
 | Minnesota NLP | University of Minnesota | [Link](https://minnesotanlp.github.io/) | |
-| Montclair NLP Lab | Montclair State University | [Link](https://sites.google.com/view/montclairnlplab/) | |
+| Montclair NLP | Montclair State University | [Link](https://sites.google.com/view/montclairnlplab/) | |
 | Morgan Lab | University of California, Davis | [Link](https://morganlab.ucdavis.edu/) | |
 | NERT Lab | Georgetown University | [Link](http://nert.georgetown.edu/) | 
 | Notre Dame NLP | University of Notre Dame | [Link](https://nlp.nd.edu/) | |
@@ -58,10 +58,10 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Purdue NLP | Purdue University | [Link](https://purduenlp.github.io/) | |
 | Port NLP | Portland State University | [Link](https://nlp.cs.pdx.edu/) | |
 | Rutgers Comp Ling Lab | Rutgers University | [Link](https://rucll.github.io/index.html) | |
-| Stanford NLP Group | Stanford University | [Link](https://nlp.stanford.edu/) | |
+| Stanford NLP | Stanford University | [Link](https://nlp.stanford.edu/) | |
 | Stony Brook NLP | Stony Brook University | [Link](https://nlp.cs.stonybrook.edu/) | |
 | Speech and Language Lab | Toyota Technological Institute at Chicago (TTIC)| [Link](https://slattic.ttic.edu/) | |
-| Stevens NLP lab | Stevens Institute of Technology University | [Link](https://nlp-lab.com/) | |
+| Stevens NLP | Stevens Institute of Technology University | [Link](https://nlp-lab.com/) | |
 | Texas A&M NLP | Texas A&M University | [Link](https://nlp.cs.tamu.edu/) | [Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) |
 | tinlab | Boston University | [Link](https://www.bu.edu/linguistics/research/faculty-research-labs/tinlab/) | |
 | UArizona CLU | University of Arizona | [Link](https://clulab.org/) | |
@@ -69,7 +69,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UCI NLP | University of California, Irvine | [Link](https://ucinlp.github.io/) | |
 | UCLA NLP | University of California, Los Angeles | [Link](https://nlp.ucla.edu/) | https://uclanlp.github.io/nlp-seminar/ |
 | UCSB NLP | University of California, Santa Barbara | [Link](http://nlp.cs.ucsb.edu/) | |
-| UIC NLP Lab | University of Illinois Chicago | [Link](https://nlp.lab.uic.edu/) | |
+| UIC NLP | University of Illinois Chicago | [Link](https://nlp.lab.uic.edu/) | |
 | UIUC NLP | University of Illinois Urbana-Champaign | [Link](https://nlp.cs.illinois.edu/) | |
 | UMBC NLP | University of Maryland, Baltimore County | [Link](https://huggingface.co/umbc-nlp) | |
 | UMass NLP | University of Massachusetts Amherst | [Link](https://nlp.cs.umass.edu/) | |
@@ -106,7 +106,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Cambridge LTL | University of Cambridge | [Link](https://ltl.mmll.cam.ac.uk/) | [x](https://x.com/CambridgeLTL) |
 | Cardiff NLP | Cardiff University | [Link](https://cardiffnlp.github.io/) | https://github.com/cardiffnlp |
 | Edinburgh NLP | University of Edinburgh | [Link](https://edinburghnlp.inf.ed.ac.uk/) | https://github.com/EdinburghNLP |
-| HWU NLP Lab | Heriot-Watt University | [Link](https://sites.google.com/view/nlplab/) | |
+| HWU NLP | Heriot-Watt University | [Link](https://sites.google.com/view/nlplab/) | |
 | Imperial NLP | Imperial College London | [Link](https://nlp.doc.ic.ac.uk/) | |
 | OxNLP | University of Oxford | [Link](https://eng.ox.ac.uk/oxnlp) | |
 | Sheffield NLP | University of Sheffield | [Link](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) | https://x.com/SheffieldNLP |
@@ -119,7 +119,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 |-|-|-|-|
 | Amsterdam NLPxDH | University of Amsterdam | [Link](https://projects.illc.uva.nl/NLP-DH/) | |
 | AUEB NLP | Athens University of Economics and Business | [Link](https://nlp.cs.aueb.gr/) | https://x.com/AUEBNLPGroup |
-| CS-NLP Group | Utrecht University | [Link](https://github.com/cs-nlp-uu) | |
+| CS-NLP | Utrecht University | [Link](https://github.com/cs-nlp-uu) | |
 | CLTL | Vrije Universiteit Amsterdam | [Link](https://home.cltl.labs.vu.nl/) | |
 | Cope NLU | University of Copenhagen | [Link](https://www.copenlu.com/) | |
 | EPFL NLP | EPFL (École Polytechnique Fédérale de Lausanne) | [Link](https://nlp.epfl.ch/) | |
@@ -129,7 +129,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | https://x.com/NLPatITU |
 | ILLC | University of Amsterdam | [Link](https://www.illc.uva.nl/) | |
 | IDSIA NLP | IDSIA | [Link](https://nlp.idsia.ch/) | [x](https://x.com/idsianlp) |
-| ItaliaNLP Lab | Istituto di Linguistica Computazionale “Antonio Zampolli” (ILC-CNR) | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
+| ItaliaNLP | Istituto di Linguistica Computazionale “Antonio Zampolli” (ILC-CNR) | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
 | LaSTUS @ TALN | Pompeu Fabra University | [Link](https://www.upf.edu/web/taln/) | |
 | Munich AI & NLP Research Lab | LMU Munich | [Link](https://mainlp.github.io/) | |
 | Milan NLP Group | University of Milan | [Link](https://milanlproc.github.io/) | |
@@ -148,13 +148,13 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | CFILT | IIT Bombay | [Link](https://www.cfilt.iitb.ac.in/) | |
 | HKUST NLP | Hong Kong University of Science and Technology | [Link](https://hltchkust.github.io/) | |
 | HYU NLP | Hanyang University | [Link](https://sites.google.com/view/hyu-nlp/) | |
-| ICT/CAS NLP Group | Institute of Computing Technology, Chinese Academy of Sciences | [Link](https://nlp.ict.ac.cn/en/) | |
+| ICT/CAS NLP | Institute of Computing Technology, Chinese Academy of Sciences | [Link](https://nlp.ict.ac.cn/en/) | |
 | KAIST NLP*CL | Korea Advanced Institute of Science and Technology (KAIST) | [Link](https://nlpcl.kaist.ac.kr/home/) | |
 | LTRC | IIIT Hyderabad | [Link](https://ltrc.iiit.ac.in/) | |
 | NAIST NLP | Nara Institute of Science and Technology | [Link](https://nlp.naist.jp/en/) | |
 | NUS NLP | National University of Singapore | [Link](https://www.comp.nus.edu.sg/~nlp/) | |
 | NTU-NLP | Nanyang Technological University | [Link](https://ntunlpsg.github.io/) | |
-| POSTECH NLP Group | Pohang University of Science and Technology | [Link](https://nlp.postech.ac.kr/) | |
+| POSTECH NLP | Pohang University of Science and Technology | [Link](https://nlp.postech.ac.kr/) | |
 | NYCU NLP | National Yang Ming Chiao Tung University | [Link](https://azyen0522.github.io/#lab) | |
 | SNU NLP | Seoul National University | [Link](https://nlp.snu.ac.kr/) | |
 | Tsinghua NLP | Tsinghua University | [Link](https://github.com/thunlp) | |
