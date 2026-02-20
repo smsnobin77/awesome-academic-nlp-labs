@@ -91,7 +91,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 |-|-|-|-|
 | CompLING Lab | University of Waterloo | [Link](https://compling-wat.com/) | | 
 | McGill NLP | McGill University | [Link](https://mcgill-nlp.github.io/) | |
-| MilaNLP | Mila – Quebec AI Institute / Université de Montréal | [Link](https://milanlproc.github.io/) | |
+| MilaNLP | Mila – Quebec AI Institute | [Link](https://milanlproc.github.io/) | |
 | Montréal NLP (RALI) | Université de Montréal | [Link](http://rali.iro.umontreal.ca/rali/?q=en/homepage) | |
 | SFU NLP | Simon Fraser University | [Link](https://www.sfu.ca/fas/computing/research/labs/nat-lang.html) | |
 | UofT NLP | University of Toronto | [Link](https://www.cs.toronto.edu/compling/) | |
