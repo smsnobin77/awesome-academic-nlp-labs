@@ -129,6 +129,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | LaSTUS @ TALN | Pompeu Fabra University | [Link](https://www.upf.edu/web/taln/) | |
 | Munich AI & NLP Research Lab | LMU Munich | [Link](https://mainlp.github.io/) | |
 | Milan NLP Group | University of Milan | [Link](https://milanlproc.github.io/) | |
+| METU NLP | Middle East Technical University | [Link](https://nlp.ceng.metu.edu.tr/) | |
 | Sapienza NLP | Sapienza University of Rome | [Link](https://nlp.uniroma1.it/) | |
 | TurkuNLP | University of Turku | [Link](https://turkunlp.org/) | |
 | UKP Lab | Technical University of Darmstadt | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
@@ -148,6 +149,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | NAIST NLP | Nara Institute of Science and Technology | [Link](https://nlp.naist.jp/en/) | |
 | NUS NLP | National University of Singapore | [Link](https://www.comp.nus.edu.sg/~nlp/) | |
 | NTU-NLP | Nanyang Technological University | [Link](https://ntunlpsg.github.io/) | |
+| POSTECH NLP Group | Pohang University of Science and Technology | [Link](https://nlp.postech.ac.kr/) | |
 | NYCU NLP | National Yang Ming Chiao Tung University | [Link](https://azyen0522.github.io/#lab) | |
 | SNU NLP | Seoul National University | [Link](https://nlp.snu.ac.kr/) | |
 | Tsinghua NLP | Tsinghua University | [Link](https://github.com/thunlp) | |
