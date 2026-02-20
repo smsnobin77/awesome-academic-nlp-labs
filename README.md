@@ -122,14 +122,14 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | CS-NLP | Utrecht University | [Link](https://github.com/cs-nlp-uu) | |
 | CLTL | Vrije Universiteit Amsterdam | [Link](https://home.cltl.labs.vu.nl/) | |
 | Cope NLU | University of Copenhagen | [Link](https://www.copenlu.com/) | |
-| EPFL NLP | EPFL (École Polytechnique Fédérale de Lausanne) | [Link](https://nlp.epfl.ch/) | |
+| EPFL NLP | EPFL | [Link](https://nlp.epfl.ch/) | |
 | GroNLP | University of Groningen | [Link](https://www.rug.nl/research/clcg/research/cl/) | [x](https://x.com/GroNlp)
 | Helsinki NLP | University of Helsinki | [Link](https://blogs.helsinki.fi/language-technology/) | [x](https://x.com/HelsinkiNLP) |
 | Heidelberg NLP | Heidelberg University | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | [x](https://x.com/HD_NLP) |
 | ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | [x](https://x.com/NLPatITU) |
 | ILLC | University of Amsterdam | [Link](https://www.illc.uva.nl/) | |
 | IDSIA NLP | IDSIA | [Link](https://nlp.idsia.ch/) | [x](https://x.com/idsianlp) |
-| ItaliaNLP | Istituto di Linguistica Computazionale “Antonio Zampolli” (ILC-CNR) | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
+| ItaliaNLP | ILC-CNR | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
 | LaSTUS @ TALN | Pompeu Fabra University | [Link](https://www.upf.edu/web/taln/) | |
 | Munich AI & NLP Research Lab | LMU Munich | [Link](https://mainlp.github.io/) | |
 | Milan NLP Group | University of Milan | [Link](https://milanlproc.github.io/) | |
