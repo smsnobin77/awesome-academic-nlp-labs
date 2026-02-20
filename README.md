@@ -24,10 +24,12 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Corpling Lab | Georgetown University | [Link](https://gucorpling.org/corpling/) | |
 | Cornell NLP | Cornell University | [Link](https://nlp.cornell.edu/) | |
 | Columbia NLP | Columbia University | [Link](https://www.cs.columbia.edu/nlp/) | |
+| Compling@UF | University of Florida | [Link](https://spaceship.lin.ufl.edu/) | [Zoey Liu](https://zoeyliu18.github.io/) |
 | CincyNLP Lab | University of Cincinnati | [Link](https://jiangtianyu.com/lab/) | |
 | CLIP Lab | University of Maryland College Park | [Link](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) | [x](https://x.com/ClipUmd) |
 | CLLT | Ohio State University | [Link](https://u.osu.edu/cllt/events/clippers/)| |
 | CoCoMo Lab | Ohio State University | [Link](https://linguistics.osu.edu/schulerlab)| |
+| CaLiCo Lab | University at Buffalo | [Link](https://www.acsu.buffalo.edu/~cxjacobs/CaLiCo_Lab.html) | |
 | DukeNLP | Duke University | [Link](https://nlplab.cs.duke.edu/) | |
 | Emory NLP | Emory University | [Link](https://www.emorynlp.org/) | |
 | George Mason NLP | George Mason University | [Link](https://nlp.cs.gmu.edu/) | |
@@ -43,6 +45,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | MIT NLP | Massachusetts Institute of Technology | [Link](https://www.csail.mit.edu/research/natural-language-processing-group) | |
 | Minnesota NLP | University of Minnesota | [Link](https://minnesotanlp.github.io/) | |
 | Montclair NLP Lab | Montclair State University | [Link](https://sites.google.com/view/montclairnlplab/) | |
+| Morgan Lab | University of California, Davis | [Link](https://morganlab.ucdavis.edu/) | |
 | NERT Lab | Georgetown University | [Link](http://nert.georgetown.edu/) | 
 | Notre Dame NLP | University of Notre Dame | [Link](https://nlp.nd.edu/) | |
 | NYU ML<sup>2</sup> | New York University | [Link](https://wp.nyu.edu/ml2/) | |
