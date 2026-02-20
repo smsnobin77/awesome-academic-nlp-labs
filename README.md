@@ -19,6 +19,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Brown NLP | Brown University | [Link](https://lunar.cs.brown.edu/) | |
 | Boulder NLP | University of Colorado Boulder | [Link](https://www.colorado.edu/research/bouldernlp/) | |
 | CMU LTI (Institute) | Carnegie Mellon University | [Link](https://www.lti.cs.cmu.edu/) | |
+| Corpling Lab | Georgetown University | [Link](https://gucorpling.org/corpling/) | |
 | Cornell NLP | Cornell University | [Link](https://nlp.cornell.edu/) | |
 | Columbia NLP | Columbia University | [Link](https://www.cs.columbia.edu/nlp/) | |
 | CincyNLP Lab | University of Cincinnati | [Link](https://jiangtianyu.com/lab/) | |
@@ -30,10 +31,12 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Harvard NLP | Harvard University | [Link](https://nlp.seas.harvard.edu/) | |
 | Howard NLP | Howard University | [Link](https://nlp.howard.edu/) | |
 | IU NLP Lab | Indiana University Bloomington | [Link](https://nlp-lab.org/) | |
+| IR lab | Georgetown University | [Link](https://ir.cs.georgetown.edu/) | |
 | JHU CLSP (Institute) | Johns Hopkins University | [Link](https://www.clsp.jhu.edu/) | |
 | MIT NLP | Massachusetts Institute of Technology | [Link](https://www.csail.mit.edu/research/natural-language-processing-group) | |
 | Minnesota NLP | University of Minnesota | [Link](https://minnesotanlp.github.io/) | |
 | Montclair NLP Lab | Montclair State University | [Link](https://sites.google.com/view/montclairnlplab/) | |
+| NERT Lab | Georgetown University | [Link](http://nert.georgetown.edu/) | 
 | Notre Dame NLP | University of Notre Dame | [Link](https://nlp.nd.edu/) | |
 | NYU ML<sup>2</sup> | New York University | [Link](https://wp.nyu.edu/ml2/) | |
 | NLP&C Lab | University of Florida | [Link](https://nlp.cise.ufl.edu/) | |
