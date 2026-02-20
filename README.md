@@ -60,6 +60,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Rutgers Comp Ling Lab | Rutgers University | [Link](https://rucll.github.io/index.html) | |
 | Stanford NLP Group | Stanford University | [Link](https://nlp.stanford.edu/) | |
 | Stony Brook NLP | Stony Brook University | [Link](https://nlp.cs.stonybrook.edu/) | |
+| Stevens NLP lab | Stevens Institute of Technology University | [Link](https://nlp-lab.com/) | |
 | Texas A&M NLP | Texas A&M University | [Link](https://nlp.cs.tamu.edu/) | [Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) |
 | tinlab | Boston University | [Link](https://www.bu.edu/linguistics/research/faculty-research-labs/tinlab/) | |
 | UArizona CLU | University of Arizona | [Link](https://clulab.org/) | |
@@ -124,6 +125,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Heidelberg NLP | Heidelberg University | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | https://x.com/HD_NLP |
 | ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | https://x.com/NLPatITU |
 | ILLC | University of Amsterdam | [Link](https://www.illc.uva.nl/) | |
+| ItaliaNLP Lab | Istituto di Linguistica Computazionale “Antonio Zampolli” (ILC-CNR) | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
 | LaSTUS @ TALN | Pompeu Fabra University | [Link](https://www.upf.edu/web/taln/) | |
 | Munich AI & NLP Research Lab | LMU Munich | [Link](https://mainlp.github.io/) | |
 | Milan NLP Group | University of Milan | [Link](https://milanlproc.github.io/) | |
