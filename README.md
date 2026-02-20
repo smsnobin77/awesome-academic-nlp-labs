@@ -143,6 +143,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 |-|-|-|-|
 | CFILT | IIT Bombay | [Link](https://www.cfilt.iitb.ac.in/) | |
 | HKUST NLP | Hong Kong University of Science and Technology | [Link](https://hltchkust.github.io/) | |
+| HYU NLP | Hanyang University | [Link](https://sites.google.com/view/hyu-nlp/) | |
 | ICT/CAS NLP Group | Institute of Computing Technology, Chinese Academy of Sciences | [Link](https://nlp.ict.ac.cn/en/) | |
 | KAIST NLP*CL | Korea Advanced Institute of Science and Technology (KAIST) | [Link](https://nlpcl.kaist.ac.kr/home/) | |
 | LTRC | IIIT Hyderabad | [Link](https://ltrc.iiit.ac.in/) | |
@@ -155,6 +156,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Tsinghua NLP | Tsinghua University | [Link](https://github.com/thunlp) | |
 | TJUNLP | Tianjin University | [Link](https://tjunlp-lab.github.io/) | |
 | Tohoku NLP | Tohoku University | [Link](http://www.nlp.ecei.tohoku.ac.jp/) | |
+| UNIST NLP | Ulsan National Institute Science and Technology | [Link](https://nlp.unist.ac.kr/) | |
 | UniMelb NLP | University of Melbourne | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
 | WestlakeNLP | Westlake University | [Link](https://westlakenlp.com/) | |
 
