@@ -193,6 +193,7 @@ If you find this repository useful, please consider citing it as:
   howpublished = {\url{https://github.com/smsnobin77/awesome-academic-nlp-labs}},
   note         = {GitHub repository}
 }
+```
 
 ## Acknowledgments
 
