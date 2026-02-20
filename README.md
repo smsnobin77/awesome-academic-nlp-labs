@@ -28,6 +28,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Emory NLP | Emory University | [Link](https://www.emorynlp.org/) | |
 | George Mason NLP | George Mason University | [Link](https://nlp.cs.gmu.edu/) | |
 | GUCL | Georgetown University | [Link](https://gucl.georgetown.edu/) | [x](https://x.com/GUCompLing) |
+| GU-HLT | Georgetown University | [Link](https://docs.google.com/document/d/e/2PACX-1vSYF8OB68Sxmz7KUoRB1ENheDtuOrIlRtEXA2Etu3rSKTMY3fTxS-NKqf__Iw3WSmBoD0ijyYm_vPl_/pub) | |
 | Harvard NLP | Harvard University | [Link](https://nlp.seas.harvard.edu/) | |
 | Howard NLP | Howard University | [Link](https://nlp.howard.edu/) | |
 | IU NLP Lab | Indiana University Bloomington | [Link](https://nlp-lab.org/) | |
