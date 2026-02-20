@@ -60,6 +60,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Rutgers Comp Ling Lab | Rutgers University | [Link](https://rucll.github.io/index.html) | |
 | Stanford NLP Group | Stanford University | [Link](https://nlp.stanford.edu/) | |
 | Stony Brook NLP | Stony Brook University | [Link](https://nlp.cs.stonybrook.edu/) | |
+| Speech and Language Lab | Toyota Technological Institute at Chicago (TTIC)| [Link](https://slattic.ttic.edu/) | |
 | Stevens NLP lab | Stevens Institute of Technology University | [Link](https://nlp-lab.com/) | |
 | Texas A&M NLP | Texas A&M University | [Link](https://nlp.cs.tamu.edu/) | [Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) |
 | tinlab | Boston University | [Link](https://www.bu.edu/linguistics/research/faculty-research-labs/tinlab/) | |
@@ -88,6 +89,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
+| CompLING Lab | University of Waterloo | [Link](https://compling-wat.com/) | | 
 | McGill NLP | McGill University | [Link](https://mcgill-nlp.github.io/) | |
 | MilaNLP | Mila – Quebec AI Institute / Université de Montréal | [Link](https://milanlproc.github.io/) | |
 | Montréal NLP (RALI) | Université de Montréal | [Link](http://rali.iro.umontreal.ca/rali/?q=en/homepage) | |
@@ -109,6 +111,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | OxNLP | University of Oxford | [Link](https://eng.ox.ac.uk/oxnlp) | |
 | Sheffield NLP | University of Sheffield | [Link](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) | https://x.com/SheffieldNLP |
 | UCL NLP | University College London | [Link](https://nlp.cs.ucl.ac.uk/) | |
+| UCREL NLP | Lancaster University | [Link](https://ucrel.lancs.ac.uk/) | [x](https://x.com/UCREL_NLP) |
 
 ## Europe
 
@@ -125,6 +128,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Heidelberg NLP | Heidelberg University | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | https://x.com/HD_NLP |
 | ITU Copenhagen NLP | IT University of Copenhagen | [Link](https://nlpnorth.github.io/) | https://x.com/NLPatITU |
 | ILLC | University of Amsterdam | [Link](https://www.illc.uva.nl/) | |
+| IDSIA NLP | IDSIA | [Link](https://nlp.idsia.ch/) | [x](https://x.com/idsianlp) |
 | ItaliaNLP Lab | Istituto di Linguistica Computazionale “Antonio Zampolli” (ILC-CNR) | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
 | LaSTUS @ TALN | Pompeu Fabra University | [Link](https://www.upf.edu/web/taln/) | |
 | Munich AI & NLP Research Lab | LMU Munich | [Link](https://mainlp.github.io/) | |
@@ -158,6 +162,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Tohoku NLP | Tohoku University | [Link](http://www.nlp.ecei.tohoku.ac.jp/) | |
 | UNIST NLP | Ulsan National Institute Science and Technology | [Link](https://nlp.unist.ac.kr/) | |
 | UniMelb NLP | University of Melbourne | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
+| VinUniversity | VinUniversity | [Link](https://vinnlp.com/) | [x](https://x.com/vinnlp) |
 | WestlakeNLP | Westlake University | [Link](https://westlakenlp.com/) | |
 
 ---
