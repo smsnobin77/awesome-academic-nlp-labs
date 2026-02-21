@@ -119,6 +119,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 |-|-|-|-|
 | Amsterdam NLPxDH | University of Amsterdam | [Link](https://projects.illc.uva.nl/NLP-DH/) | |
 | AUEB NLP | Athens University of Economics and Business | [Link](https://nlp.cs.aueb.gr/) | [x](https://x.com/AUEBNLPGroup) |
+| Bamberg NLP | University of Bamberg | [Link](https://www.uni-bamberg.de/en/nlproc/) | |
 | CS-NLP | Utrecht University | [Link](https://github.com/cs-nlp-uu) | |
 | CLTL | Vrije Universiteit Amsterdam | [Link](https://home.cltl.labs.vu.nl/) | |
 | Cope NLU | University of Copenhagen | [Link](https://www.copenlu.com/) | |
