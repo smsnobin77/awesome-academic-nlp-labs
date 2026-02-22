@@ -40,6 +40,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | New York University | NYU ML<sup>2</sup> | [Link](https://wp.nyu.edu/ml2/) | |
 | Ohio State University | CLLT | [Link](https://u.osu.edu/cllt/events/clippers/)| |
 | Ohio State University | CoCoMo Lab | [Link](https://linguistics.osu.edu/schulerlab)| |
+| Ohio State University | OSU NLP | [Link](https://x.com/osunlp) | |
 | Pennsylvania State University | Penn State NLP | [Link](https://nlp.psu.edu/) | |
 | Portland State University | Port NLP | [Link](https://nlp.cs.pdx.edu/) | |
 | Princeton University | Princeton NLP | [Link](https://princeton-nlp.github.io/) | |
@@ -49,9 +50,9 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Stevens Institute of Technology University | Stevens NLP | [Link](https://nlp-lab.com/) | |
 | Stony Brook University | Stony Brook NLP | [Link](https://nlp.cs.stonybrook.edu/) | |
 | Texas A&M University | Texas A&M NLP | [Link](https://nlp.cs.tamu.edu/) | [Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) |
-| Toyota Technological Institute at Chicago (TTIC) | Speech and Language Lab | [Link](https://slattic.ttic.edu/) | |
+| Toyota Technological Institute at Chicago | Speech and Language Lab | [Link](https://slattic.ttic.edu/) | |
 | University at Buffalo | CaLiCo Lab | [Link](https://www.acsu.buffalo.edu/~cxjacobs/CaLiCo_Lab.html) | |
-| University of Arizona | UArizona CLU | [Link](https://clulab.org/) | |
+| University of Arizona | CLU Lab | [Link](https://clulab.org/) | |
 | University of California, Berkeley | Berkeley NLP | [Link](https://nlp.cs.berkeley.edu/) | [Getting Started in NLP Research](https://docs.google.com/document/d/1D3qmwJWkmYv0h0kqGZyM2umg3AUm2Ji1I1V66QgLa-U/edit?tab=t.0) |
 | University of California, Davis | Linguistic Mechanisms Lab | [Link](https://robvoigt.faculty.ucdavis.edu/) | |
 | University of California, Davis | Morgan Lab | [Link](https://morganlab.ucdavis.edu/) | |
@@ -83,9 +84,8 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Washington University in St. Louis | WashU NLP | [Link](https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html) | |
 | Yale University | CLAY Lab | [Link](https://clay.yale.edu/) | |
 | Yale University | Yale NLP | [Link](https://nlp.cs.yale.edu/) | [x](https://x.com/yalenlp) |
-| The Ohio State University | OSU NLP | [Link](https://x.com/osunlp) | |
 
-
+<!--
 | Lab Name | University | Webpage | Other Links |
 |-|-|-|-|
 | ASU NLP | Arizona State University | [Link](https://nlp.asu.edu/) | |
@@ -158,6 +158,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | UW NLP | University of Washington | [Link](https://nlp.washington.edu/) | |
 | WashU NLP | Washington University in St. Louis | [Link](https://cse.washu.edu/faculty-research/research-areas/Natural-Language-Processing.html) | |
 | Yale NLP | Yale University | [Link](https://nlp.cs.yale.edu/) | [x](https://x.com/yalenlp) |
+-->
 
 ## Canada
 
