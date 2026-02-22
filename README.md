@@ -133,6 +133,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | LMU Munich | Munich AI & NLP Research Lab | [Link](https://mainlp.github.io/) | |
 | Middle East Technical University | METU NLP | [Link](https://nlp.ceng.metu.edu.tr/) | |
 | Pompeu Fabra University | LaSTUS @ TALN | [Link](https://www.upf.edu/web/taln/) | |
+| Saarland University | LaCoCo Lab | [Link](https://lacoco-lab.github.io/home/) | |
 | Sapienza University of Rome | Sapienza NLP | [Link](https://nlp.uniroma1.it/) | |
 | Technical University of Darmstadt | UKP Lab | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
 | University of Amsterdam | Amsterdam NLPxDH | [Link](https://projects.illc.uva.nl/NLP-DH/) | |
@@ -143,6 +144,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | University of Helsinki | Helsinki NLP | [Link](https://blogs.helsinki.fi/language-technology/) | [x](https://x.com/HelsinkiNLP) |
 | University of Milan | Milan NLP Group | [Link](https://milanlproc.github.io/) | |
 | University of Naples "L'Orientale" | UniOr NLP | [Link](https://sites.google.com/view/unior-nlp-research-group) | [x](https://x.com/NlpUnior) |
+| University of Oslo | Language Technology Group | [Link](https://www.mn.uio.no/ifi/english/research/groups/ltg/) | |
 | University of Stuttgart | IMS (Institute for NLP) | [Link](https://www.ims.uni-stuttgart.de/en/) | |
 | University of Turku | TurkuNLP | [Link](https://turkunlp.org/) | |
 | University of Zurich | Department of Computational Linguistics | [Link](https://www.cl.uzh.ch/en.html) | |
@@ -161,11 +163,12 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | IIT Bombay | CFILT | [Link](https://www.cfilt.iitb.ac.in/) | |
 | Institute of Computing Technology, Chinese Academy of Sciences | ICT/CAS NLP | [Link](https://nlp.ict.ac.cn/en/) | |
 | Korea Advanced Institute of Science and Technology (KAIST) | KAIST NLP*CL | [Link](https://nlpcl.kaist.ac.kr/home/) | |
+| Monash University | MonashNLP Lab | [Link](https://monashnlp.github.io/monashnlp/) | |
 | Nanyang Technological University | NTU-NLP | [Link](https://ntunlpsg.github.io/) | |
 | Nara Institute of Science and Technology | NAIST NLP | [Link](https://nlp.naist.jp/en/) | |
 | National University of Singapore | NUS NLP | [Link](https://www.comp.nus.edu.sg/~nlp/) | |
-| Peking University | PKUNLP-ICLER | [Link](https://pkunlp-icler.github.io/) | |
 | National Yang Ming Chiao Tung University | NYCU NLP | [Link](https://azyen0522.github.io/#lab) | |
+| Peking University | PKUNLP-ICLER | [Link](https://pkunlp-icler.github.io/) | |
 | Pohang University of Science and Technology | POSTECH NLP | [Link](https://nlp.postech.ac.kr/) | |
 | Seoul National University | SNU NLP | [Link](https://nlp.snu.ac.kr/) | |
 | Tianjin University | TJUNLP | [Link](https://tjunlp-lab.github.io/) | |
@@ -174,6 +177,8 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Ulsan National Institute Science and Technology | UNIST NLP | [Link](https://nlp.unist.ac.kr/) | |
 | University of Hong Kong | HKU NLP Group | [Link](https://hkunlp.github.io/) | |
 | University of Melbourne | UniMelb NLP | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
+| University of Sydney | USYD NLP Group | [Link](https://usydnlpgroup.wordpress.com/) | |
+| University of Technology Sydney | UTS NLP Group | [Link](https://utsnlp.github.io/) | |
 | VinUniversity | VinUniversity | [Link](https://vinnlp.com/) | [x](https://x.com/vinnlp) |
 | Westlake University | WestlakeNLP | [Link](https://westlakenlp.com/) | |
 
