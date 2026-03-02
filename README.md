@@ -230,3 +230,14 @@ This repository benefited from the following resources:
 ## License
 
 This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal license.
+
+---
+
+<div align="center">
+
+  **⭐ If you find this repository useful, please consider starring it! ⭐**
+  
+  [![GitHub stars](https://img.shields.io/github/stars/smsnobin77/awesome-academic-nlp-labs?style=social)](https://github.com/smsnobin77/awesome-academic-nlp-labs)
+  [![GitHub forks](https://img.shields.io/github/forks/smsnobin77/awesome-academic-nlp-labs?style=social)](https://github.com/smsnobin77/awesome-academic-nlp-labs)
+
+</div>
