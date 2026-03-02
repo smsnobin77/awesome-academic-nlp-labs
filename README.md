@@ -71,6 +71,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | University of Maryland, Baltimore County | UMBC NLP | [Link](https://huggingface.co/umbc-nlp) | |
 | University of Maryland, College Park | UMD NLP | [Link](https://www.cs.umd.edu/researcharea/natural-language-processing) | |
 | University of Massachusetts Amherst | UMass NLP | [Link](https://nlp.cs.umass.edu/) | |
+| University of Massachusetts Lowell | Text Machine Lab | [Link](https://text-machine.cs.uml.edu/lab2/) | |
 | University of Michigan | UMich LIT | [Link](https://lit.eecs.umich.edu/index.html) | [Poster Gallery](https://lit.eecs.umich.edu/posters.html) |
 | University of Minnesota | Minnesota NLP | [Link](https://minnesotanlp.github.io/) | |
 | University of North Carolina at Chapel Hill | UNC NLP | [Link](https://nlp.cs.unc.edu/) | |
