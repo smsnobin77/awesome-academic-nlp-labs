@@ -59,6 +59,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | University of California, Irvine | UCI NLP | [Link](https://ucinlp.github.io/) | |
 | University of California, Los Angeles | UCLA NLP | [Link](https://nlp.ucla.edu/) | [GitHub](https://uclanlp.github.io/nlp-seminar/) |
 | University of California, San Diego | UCSD NLP | [Link](https://ucsd-nlp.github.io/) | |
+| University of California, San Diego | Language and Cognition Lab | [Link](https://langcoglab.ucsd.edu/) | |
 | University of California, Santa Barbara | UCSB NLP | [Link](http://nlp.cs.ucsb.edu/) | |
 | University of Chicago | Communication & Intelligence Group | [Link](https://ci.cs.uchicago.edu/) | |
 | University of Cincinnati | CincyNLP Lab | [Link](https://jiangtianyu.com/lab/) | |
