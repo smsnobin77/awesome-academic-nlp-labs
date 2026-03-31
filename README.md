@@ -141,6 +141,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | University of Amsterdam | Amsterdam NLPxDH | [Link](https://projects.illc.uva.nl/NLP-DH/) | |
 | University of Amsterdam | ILLC | [Link](https://www.illc.uva.nl/) | |
 | University of Bamberg | Bamberg NLP | [Link](https://www.uni-bamberg.de/en/nlproc/) | |
+| University of Bologna | UniBo NLP | [Link](https://disi-unibo-nlp.github.io/) | [Link](https://nlp.unibo.it/) [GitHub](https://github.com/disi-unibo-nlp) |
 | University of Copenhagen | Cope NLU | [Link](https://www.copenlu.com/) | |
 | University of Groningen | GroNLP | [Link](https://www.rug.nl/research/clcg/research/cl/) | [x](https://x.com/GroNlp) |
 | University of Helsinki | Helsinki NLP | [Link](https://blogs.helsinki.fi/language-technology/) | [x](https://x.com/HelsinkiNLP) |
