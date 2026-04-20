@@ -164,6 +164,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Hong Kong University of Science and Technology | HKUST NLP | [Link](https://hltchkust.github.io/) | |
 | IIIT Hyderabad | LTRC | [Link](https://ltrc.iiit.ac.in/) | |
 | IIT Bombay | CFILT | [Link](https://www.cfilt.iitb.ac.in/) | |
+| IIT Delhi | FLaMe.nlp | [Link](https://flamenlp.github.io/) | |
 | Institute of Computing Technology, Chinese Academy of Sciences | ICT/CAS NLP | [Link](https://nlp.ict.ac.cn/en/) | |
 | Korea Advanced Institute of Science and Technology (KAIST) | KAIST NLP*CL | [Link](https://nlpcl.kaist.ac.kr/home/) | |
 | Monash University | MonashNLP Lab | [Link](https://monashnlp.github.io/monashnlp/) | |
