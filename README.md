@@ -180,7 +180,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Tsinghua University | Tsinghua NLP | [Link](https://github.com/thunlp) | |
 | Ulsan National Institute Science and Technology | UNIST NLP | [Link](https://nlp.unist.ac.kr/) | |
 | University of Hong Kong | HKU NLP Group | [Link](https://hkunlp.github.io/) | |
-| University of Melbourne | UniMelb NLP | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | |
+| University of Melbourne | UniMelb NLP | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | [Linkedin](https://www.linkedin.com/in/unimelb-nlp-group-3a2669398/) |
 | University of Sydney | USYD NLP Group | [Link](https://usydnlpgroup.wordpress.com/) | |
 | University of Technology Sydney | UTS NLP Group | [Link](https://utsnlp.github.io/) | |
 | VinUniversity | VinUniversity | [Link](https://vinnlp.com/) | [x](https://x.com/vinnlp) |
