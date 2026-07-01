@@ -135,6 +135,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | ILC-CNR | ItaliaNLP | [Link](http://www.italianlp.it/) | [x](https://x.com/ItaliaNLP_Lab) |
 | IT University of Copenhagen | ITU Copenhagen NLP | [Link](https://nlpnorth.github.io/) | [x](https://x.com/NLPatITU) |
 | LMU Munich | Munich AI & NLP Research Lab | [Link](https://mainlp.github.io/) | |
+| Leipzig University | LION Lab | [Link](https://lionlabnlp.github.io/) | [x](https://x.com/LIONLabNLP), [LinkedIn](https://www.linkedin.com/company/lionlabnlp/) |
 | Middle East Technical University | METU NLP | [Link](https://nlp.ceng.metu.edu.tr/) | |
 | Pompeu Fabra University | LaSTUS @ TALN | [Link](https://www.upf.edu/web/taln/) | |
 | Saarland University | LaCoCo Lab | [Link](https://lacoco-lab.github.io/home/) | |
