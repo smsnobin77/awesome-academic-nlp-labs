@@ -117,6 +117,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | University of Cambridge | Cambridge NLP | [Link](https://www.cst.cam.ac.uk/research/themes/natural-language-processing) | |
 | University of Cambridge | Cambridge LTL | [Link](https://ltl.mmll.cam.ac.uk/) | [x](https://x.com/CambridgeLTL) |
 | University of Edinburgh | Edinburgh NLP | [Link](https://edinburghnlp.inf.ed.ac.uk/) | [GitHub](https://github.com/EdinburghNLP) |
+| University of Liverpool | UoL NLP | [Link](https://livnlp.github.io/) | |
 | University of Manchester | NLP & Text Mining Group | [Link](https://www.cs.manchester.ac.uk/research/expertise/natural-language-processing/) | |
 | University of Oxford | OxNLP | [Link](https://eng.ox.ac.uk/oxnlp) | |
 | University of Sheffield | Sheffield NLP | [Link](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) | [x](https://x.com/SheffieldNLP) |
@@ -181,6 +182,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Tianjin University | TJUNLP | [Link](https://tjunlp-lab.github.io/) | |
 | Tohoku University | Tohoku NLP | [Link](http://www.nlp.ecei.tohoku.ac.jp/) | |
 | Tsinghua University | Tsinghua NLP | [Link](https://github.com/thunlp) | |
+| Tianjin University | TJU NLP | [Link](https://tjunlp-lab.github.io/) | [x](https://x.com/TJUNLP)
 | Ulsan National Institute Science and Technology | UNIST NLP | [Link](https://nlp.unist.ac.kr/) | |
 | University of Hong Kong | HKU NLP Group | [Link](https://hkunlp.github.io/) | |
 | University of Melbourne | UniMelb NLP | [Link](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing) | [Linkedin](https://www.linkedin.com/in/unimelb-nlp-group-3a2669398/) |
