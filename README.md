@@ -177,6 +177,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Peking University | PKUNLP-ICLER | [Link](https://pkunlp-icler.github.io/) | |
 | Pohang University of Science and Technology | POSTECH NLP | [Link](https://nlp.postech.ac.kr/) | |
 | Seoul National University | SNU NLP | [Link](https://nlp.snu.ac.kr/) | |
+| Soongsil University | SSU NLP Lab | [Link](https://sites.google.com/view/ssu-nlp/) | |
 | Tianjin University | TJUNLP | [Link](https://tjunlp-lab.github.io/) | |
 | Tohoku University | Tohoku NLP | [Link](http://www.nlp.ecei.tohoku.ac.jp/) | |
 | Tsinghua University | Tsinghua NLP | [Link](https://github.com/thunlp) | |
