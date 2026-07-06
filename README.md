@@ -17,6 +17,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Arizona State University | ASU NLP | [Link](https://nlp.asu.edu/) | |
 | Boston University | tinlab | [Link](https://www.bu.edu/linguistics/research/faculty-research-labs/tinlab/) | |
 | Brandeis University | BLT Lab | [Link](https://github.com/bltlab) | |
+| Brigham Young University | BYU MATRIX Lab | [Link](https://matrix.byu.edu/) | |
 | Brown University | Brown NLP | [Link](https://lunar.cs.brown.edu/) | |
 | Carnegie Mellon University | ChangeLing Lab | [Link](https://changelinglab.github.io/) | |
 | Carnegie Mellon University | CMU LTI (Institute) | [Link](https://www.lti.cs.cmu.edu/) | |
