@@ -245,7 +245,7 @@ This project is dedicated to the public domain under the Creative Commons CC0 1.
 ---
 ## ✨ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=smsnobin77/awesome-academic-nlp-labs&type=Date)](https://www.star-history.com/#smsnobin77/awesome-academic-nlp-labs&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=smsnobin77/awesome-academic-nlp-labs&type=Date)](https://star-history.com/#smsnobin77/awesome-academic-nlp-labs&Date)
 
 ---
 
