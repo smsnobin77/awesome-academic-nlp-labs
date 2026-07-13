@@ -43,7 +43,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Ohio State University | CoCoMo Lab | [Link](https://linguistics.osu.edu/schulerlab)| |
 | Ohio State University | OSU NLP | [Link](https://x.com/osunlp) | |
 | Pennsylvania State University | Penn State NLP | [Link](https://nlp.psu.edu/) | |
-| Portland State University | Port NLP | [Link](https://nlp.cs.pdx.edu/) | |
+| Portland State University | Port NLP | [Link](https://nlp.cs.pdx.edu/) | [LinkedIn](https://www.linkedin.com/company/portnlp/) |
 | Princeton University | Princeton NLP | [Link](https://princeton-nlp.github.io/) | |
 | Purdue University | Purdue NLP | [Link](https://purduenlp.github.io/) | |
 | Rutgers University | Rutgers Comp Ling Lab | [Link](https://rucll.github.io/index.html) | |
