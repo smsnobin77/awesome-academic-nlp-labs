@@ -113,6 +113,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Cardiff University | Cardiff NLP | [Link](https://cardiffnlp.github.io/) | [GitHub](https://github.com/cardiffnlp) |
 | Heriot-Watt University | HWU NLP | [Link](https://sites.google.com/view/nlplab/) | |
 | Imperial College London | Imperial NLP | [Link](https://nlp.doc.ic.ac.uk/) | |
+| King's College London | KCL NLP | [Link](https://kclnlp.github.io/) | [LinkedIn](https://www.linkedin.com/company/kclnlp/) |
 | Lancaster University | UCREL NLP | [Link](https://ucrel.lancs.ac.uk/) | [x](https://x.com/UCREL_NLP) |
 | University College London | UCL NLP | [Link](https://nlp.cs.ucl.ac.uk/) | |
 | University of Cambridge | Cambridge NLP | [Link](https://www.cst.cam.ac.uk/research/themes/natural-language-processing) | |
