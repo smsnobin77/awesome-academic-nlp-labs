@@ -240,17 +240,6 @@ This repository benefited from the following resources:
 - Computational Linguistics and NLP Research in North American Linguistics Departments — Prof. Nathan Schneider (Georgetown University) - [Link](https://nschneid.github.io/nlp-in-ling/)  
 - Top Natural Language Processing Labs in Academia - [Link](https://phaseai.com/resources/top-academic-nlp-labs)
 
-## License
-
-This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal license.
-
----
-## ✨ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=smsnobin77/awesome-academic-nlp-labs&type=Date)](https://star-history.com/#smsnobin77/awesome-academic-nlp-labs&Date)
-
----
-
 <div align="center">
 
   **⭐ If you find this repository useful, please consider starring it! ⭐**
