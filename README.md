@@ -131,6 +131,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Athens University of Economics and Business | AUEB NLP | [Link](https://nlp.cs.aueb.gr/) | [x](https://x.com/AUEBNLPGroup) |
 | ETH Zurich | LRE Lab | [Link](https://lre.inf.ethz.ch/) | |
 | EPFL | EPFL NLP | [Link](https://nlp.epfl.ch/) | |
+| FAU Erlangen-Nürnberg | ILS Lab | [Link](https://gglab-ku.github.io/) | | 
 | Fondazione Bruno Kessler | FBK NLP | [Link](https://nlplab.fbk.eu/) | [LinkedIn](https://www.linkedin.com/company/nlp-research-group-fbk/) | 
 | Ghent University | UGent NLP | [Link](https://ugentt2k.github.io/) | [x](https://x.com/ugentnlp) |
 | Heidelberg University | Heidelberg NLP | [Link](https://www.cl.uni-heidelberg.de/nlpgroup/) | [x](https://x.com/HD_NLP) |
@@ -175,6 +176,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | IIT Bombay | CFILT | [Link](https://www.cfilt.iitb.ac.in/) | |
 | IIT Delhi | FLaMe.nlp | [Link](https://flamenlp.github.io/) | [LinkedIn](https://www.linkedin.com/company/flamenlp/) |
 | Institute of Computing Technology, Chinese Academy of Sciences | ICT/CAS NLP | [Link](https://nlp.ict.ac.cn/en/) | |
+| Istanbul Technical University | ITU NLP | [Link](https://nlp.itu.edu.tr/) | |
 | Korea Advanced Institute of Science and Technology (KAIST) | KAIST NLP*CL | [Link](https://nlpcl.kaist.ac.kr/home/) | |
 | Monash University | MonashNLP Lab | [Link](https://monashnlp.github.io/monashnlp/) | |
 | Nanyang Technological University | NTU-NLP | [Link](https://ntunlpsg.github.io/) | |
