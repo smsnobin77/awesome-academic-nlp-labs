@@ -145,13 +145,13 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | Saarland University | LaCoCo Lab | [Link](https://lacoco-lab.github.io/home/) | |
 | Sapienza University of Rome | Sapienza NLP | [Link](https://nlp.uniroma1.it/) | |
 | Technical University of Darmstadt | UKP Lab | [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) | |
-| University of Amsterdam | Amsterdam NLP | [Link](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLP/) | [	LinkedIn](https://www.linkedin.com/company/nlp-university-of-amsterdam/) |
+| University of Amsterdam | Amsterdam NLP | [Link](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLP/) | [LinkedIn](https://www.linkedin.com/company/nlp-university-of-amsterdam/) |
 | | Amsterdam NLPxDH | [Link](https://projects.illc.uva.nl/NLP-DH/) | |
 | | ILLC | [Link](https://www.illc.uva.nl/) | |
 | | Mulini Lab | [Link](https://projects.illc.uva.nl/mulinilab/) | |
 | University of Bamberg | Bamberg NLP | [Link](https://www.uni-bamberg.de/en/nlproc/) | |
 | University of Bologna | UniBo NLP | [Link](https://disi-unibo-nlp.github.io/) | [Link](https://nlp.unibo.it/) [GitHub](https://github.com/disi-unibo-nlp) |
-| University of Copenhagen | Cope NLU | [Link](https://www.copenlu.com/) | |
+| University of Copenhagen | Cope NLU | [Link](https://www.copenlu.com/) | [LinkedIn](https://www.linkedin.com/company/copenlu/) |
 | University of Groningen | GroNLP | [Link](https://www.rug.nl/research/clcg/research/cl/) | [x](https://x.com/GroNlp) |
 | University of Helsinki | Helsinki NLP | [Link](https://blogs.helsinki.fi/language-technology/) | [x](https://x.com/HelsinkiNLP) |
 | University of Milan | Milan NLP Group | [Link](https://milanlproc.github.io/) | |
