@@ -159,6 +159,7 @@ A curated directory of academic NLP research labs worldwide. Entries link to off
 | University of Oslo | Language Technology Group | [Link](https://www.mn.uio.no/ifi/english/research/groups/ltg/) | |
 | University of Stuttgart | IMS (Institute for NLP) | [Link](https://www.ims.uni-stuttgart.de/en/) | |
 | University of Turku | TurkuNLP | [Link](https://turkunlp.org/) | |
+| University of Tübingen | TüLLI-AI | [GitHub](https://github.com/TuLLI-AI) | |
 | University of Zurich | Department of Computational Linguistics | [Link](https://www.cl.uzh.ch/en.html) | [LinkedIn](https://www.linkedin.com/company/cl-uzh/) |
 | Utrecht University | Utrecht NLP Hub | [Link](https://nlp.sites.uu.nl/) | |
 | | NLP@CS | [Link](https://uu-nlp.github.io/) | |
